@@ -20,8 +20,10 @@
 
 title: Christian Baehr
 email: cbaehr [at] princeton [dot] edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Ph.D. Candidate in the Princeton University Department of Politics
+description: | # this means to ignore newlines until "baseurl:"
+  Ph.D. Candidate,
+  Department of Politics
+  Princeton University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: christian_baehr
