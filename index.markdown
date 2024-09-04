@@ -32,7 +32,7 @@ layout: home
 
 <div markdown="1" class="spaced-lines">
 
-I am a Ph.D. Candidate in Politics at Princeton University. I am also a graduate affiliate with both the Niehaus Center for Globalization and Governance and the the Princeton Sovereign Finance Lab. You can find a copy of my CV [<span style="color:#c869bf">here</span>](https://www.dropbox.com/scl/fi/weg2rg8lvsnqxf0pxq67n/baehr_cv.pdf?rlkey=iny8alh8wug8urs394w1djrwa&st=uklrefpt&dl=0).
+I am a Ph.D. Candidate in Politics at Princeton University. I am also a graduate affiliate with both the Niehaus Center for Globalization and Governance and the Princeton Sovereign Finance Lab. You can find a copy of my CV [<span style="color:#c869bf">here</span>](https://www.dropbox.com/scl/fi/weg2rg8lvsnqxf0pxq67n/baehr_cv.pdf?rlkey=iny8alh8wug8urs394w1djrwa&st=uklrefpt&dl=0).
 
 I am broadly interested in the politics of government finances. My dissertation research explores the politics underlying adoption of national fiscal rules. My interests also include the politics of sovereign finance, natural resource politics, and the political economy of climate change. 
 
@@ -49,10 +49,10 @@ Christian Baehr, Ariel BenYishay, and Brad Parks<br>
 *Journal of the Association of Environmental and Resource Economists*, Vol 8(2).
 
 <h2 style="margin-top:20px;"><b>Working Papers</b></h2>
-[<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) <br>
+[<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) *(Under Review)* <br>
 With Fiona Bare and Vincent Heddesheimer.
 
-[<span style="color:#c869bf">Landmine Clearance and Economic Development</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0) <br>
+[<span style="color:#c869bf">Landmine Clearance and Economic Development</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0) *(Under Review)* <br>
 With Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker.
 
 <h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
