@@ -44,8 +44,7 @@ Previously, I was a Junior Data Analyst for the AidData Research Lab at William 
 Christian Baehr, Ariel BenYishay, and Brad Parks<br>
 *Journal of Environmental Economics and Management*, Vol 122(1).
 
-[<span style="color:#c869bf">Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Ad-
-ministrative Data</span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) <br>
+[<span style="color:#c869bf">Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) <br>
 Christian Baehr, Ariel BenYishay, and Brad Parks<br>
 *Journal of the Association of Environmental and Resource Economists*, Vol 8(2).
 
