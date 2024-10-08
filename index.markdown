@@ -49,7 +49,7 @@ Christian Baehr, Ariel BenYishay, and Brad Parks<br>
 *Journal of the Association of Environmental and Resource Economists*, Vol 8(2).
 
 <h2 style="margin-top:20px;"><b>Working Papers</b></h2>
-[<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) *(Under Review)* <br>
+[<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) *(Revise and Resubmit)* <br>
 With Fiona Bare and Vincent Heddesheimer.
 
 [<span style="color:#c869bf">Landmine Clearance and Economic Development</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0) *(Under Review)* <br>
