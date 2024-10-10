@@ -57,7 +57,7 @@ With Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker.
 
 <h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
 <h3 style="margin-top:16px;">POL 392: American Foreign Policy (Fall 2024)</h3>
-<i>This undergraduate course analyzes the formation and conduct of foreign policy in the United States, focusing particularly on the causal role of the international system, public opinion, and the media as drivers of America's foreign policy.</i>
+<i>This undergraduate course analyzes the formation and conduct of foreign policy in the United States, focusing particularly on the causal role of the international system, public opinion, and the media in driving America's foreign policy.</i>
 
 <h3 style="margin-top:16px;">POL 396: International Organizations (Spring 2024)</h3>
 <i>This introductory course surveys the network of major international organizations and introduces undergraduate students to the political factors driving participation in, and behavior of, international organizations.</i>
