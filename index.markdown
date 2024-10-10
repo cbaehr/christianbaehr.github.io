@@ -38,7 +38,7 @@ I am broadly interested in the politics of government financing. My dissertation
 
 Previously, I was a Junior Data Analyst for the AidData Research Lab at William & Mary, where I conducted geospatial impact evaluations of development projects and also managed the AidData Geocoding team. I earned a A.B. in Economics from Washington University in St. Louis and an M.A. in Politics from Princeton University. 
 
-I have extensive teaching experience. I designed and taught courses in introductory and advanced programming and political methodology at William & Mary, and at Princeton have assisted in instruction for PhD-level courses in political methodology and text-as-data as well as multiple undergraduate courses in International Politics. Additionally, I co-instructed the R for Public Policy course for the Junior Summer Institute Program (through the Princeton School of Public and International Affairs) each of the past three summers.
+I have extensive teaching experience. I designed and taught courses in introductory and advanced programming and political methodology at William & Mary, and at Princeton have assisted in instruction for PhD-level coursework in political methodology and text-as-data and multiple undergraduate courses in International Politics. Additionally, I co-instructed the R for Public Policy course for the Junior Summer Institute Program (through the Princeton School of Public and International Affairs) each of the past three summers.
 
 
 <h2 style="margin-top:20px;"><b>Journal Publications</b></h2>
