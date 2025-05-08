@@ -34,7 +34,7 @@ layout: home
 
 I am a Ph.D Candidate in Politics at Princeton University. I am also a graduate affiliate with the Niehaus Center for Globalization and Governance and a Graduate Fellow with the Princeton Sovereign Finance Lab. You can find a copy of my CV [<span style="color:#c869bf">here</span>](https://www.dropbox.com/scl/fi/weg2rg8lvsnqxf0pxq67n/baehr_cv.pdf?rlkey=iny8alh8wug8urs394w1djrwa&st=uklrefpt&dl=0).
 
-I am broadly interested in the politics of government financing. My dissertation research explores the trade offs that governments make when selecting among financing strategies. My interests include the politics of sovereign debt in particular, the political economy of climate change and natural resources, and the impact of foreign aid interventions on environmental quality and human development.
+I am broadly interested in the politics of government financing. My dissertation research explores the trade offs that governments make when selecting among financing strategies. My interests include the politics of sovereign debt in particular, the political economy of climate change and natural resources, and the impact of foreign aid interventions on human development and the environment.
 
 Previously, I was a Junior Data Analyst for the AidData Research Lab at William & Mary, where I conducted geospatial impact evaluations of development projects and also managed the AidData Geocoding team. I earned a A.B. in Economics from Washington University in St. Louis and an M.A. in Politics from Princeton University. 
 
