@@ -44,7 +44,7 @@ I have extensive teaching experience. I designed and taught courses in introduct
 
 [<span style="color:#c869bf">Global Energy Shocks and Domestic Political Reform</span>](https://www.dropbox.com/scl/fi/ilrzcgqoqaaoofltkfn9r/Baehr_Resources_CPW.pdf?rlkey=fwll7tskgkd7naizrf4hrdu24&st=0k921ru1&dl=0) *(Working Paper)*
 
-[<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) *(Revise and Resubmit)* <br>
+[<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) *(Conditionally Accepted at the American Journal of Political Science)* <br>
 With Fiona Bare and Vincent Heddesheimer.
 
 [<span style="color:#c869bf">Landmine Clearance and Economic Development</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0) *(Revise and Resubmit)* <br>
