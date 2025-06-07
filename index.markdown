@@ -47,7 +47,7 @@ I have extensive teaching experience. I designed and taught courses in introduct
 [<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) *(Conditionally Accepted at the American Journal of Political Science)* <br>
 With Fiona Bare and Vincent Heddesheimer.
 
-[<span style="color:#c869bf">Landmine Clearance and Economic Development</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0) *(Revise and Resubmit)* <br>
+[<span style="color:#c869bf">Landmine Clearance and Economic Development</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0) *(Revise and Resubmit at the Journal of Development Economics)* <br>
 With Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker.
 
 [<span style="color:#c869bf">Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) <br>
