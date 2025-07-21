@@ -38,7 +38,7 @@ I am broadly interested in the political economy of climate change and governmen
 
 Previously, I was a Junior Data Analyst for the AidData Research Lab at William & Mary, where I conducted geospatial impact evaluations of development projects and also managed the AidData Geocoding team. I earned a A.B. in Economics from Washington University in St. Louis and an M.A. in Politics from Princeton University. 
 
-I have extensive teaching experience. I designed and taught courses in introductory and advanced statistical programming and political methodology at William & Mary, and at Princeton I have assisted in instruction for PhD-level coursework in political methodology and text-as-data and multiple undergraduate courses in International Politics. Additionally, I co-organized the R for Public Policy course for the Junior Summer Institute Program (through the Princeton School of Public and International Affairs) from 2022-24.
+I have extensive teaching experience. I designed and taught courses in introductory and advanced statistical programming and political methodology at William & Mary, and at Princeton I have assisted in instruction for PhD-level coursework in quantitative analysis and text-as-data and multiple undergraduate courses in international relations. Additionally, I co-organized the R for Public Policy course for the Junior Summer Institute Program (through the Princeton School of Public and International Affairs) from 2022-24.
 
 <h2 style="margin-top:20px;"><b>Academic Research</b></h2>
 
