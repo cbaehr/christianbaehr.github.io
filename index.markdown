@@ -47,18 +47,6 @@ I have extensive teaching experience. I designed and taught courses in introduct
 [<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) *(Conditionally Accepted at the American Journal of Political Science)* <br>
 With Fiona Bare and Vincent Heddesheimer.
 
-[<span style="color:#c869bf">Landmine Clearance and Economic Development</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0) *(Revise and Resubmit at the Journal of Development Economics)* <br>
-With Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker.
-
-[<span style="color:#c869bf">Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) <br>
-Christian Baehr, Ariel BenYishay, and Brad Parks<br>
-*Journal of Environmental Economics and Management*, Vol 122(1).
-
-[<span style="color:#c869bf">Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) <br>
-Christian Baehr, Ariel BenYishay, and Brad Parks<br>
-*Journal of the Association of Environmental and Resource Economists*, Vol 8(2).
-
-
 <h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
 
 <h3 style="margin-top:16px;">POL 574: Quantitative Analysis IV (Spring 2025)</h3>
@@ -73,11 +61,22 @@ Christian Baehr, Ariel BenYishay, and Brad Parks<br>
 <h3 style="margin-top:16px;">POL 504: Text As Data (Fall 2023)</h3>
 <i>This graduate-level methods course trains students to be practitioners of textual methods, spanning from the foundations of text-as-data to cutting-edge machine learning methods for analyzing text.</i>
 
-<h2 style="margin-top:20px;"><b>Policy Writing</b></h2>
+<h2 style="margin-top:20px;"><b>Policy Writing and Pre-Graduate School Research</b></h2>
 
 [<span style="color:#c869bf">Prospects for Venezuelan Debt Restructuring: A Trump Bump</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf) *(PSFL Policy Brief 25-1)*
 
 [<span style="color:#c869bf">How Do Governments Respond to Persistently High Commodity Prices</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf) *(PSFL Policy Brief 24-2)*
+
+[<span style="color:#c869bf">Landmine Clearance and Economic Development</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0) *(Revise and Resubmit at the Journal of Development Economics)* <br>
+With Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker.
+
+[<span style="color:#c869bf">Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) <br>
+Christian Baehr, Ariel BenYishay, and Brad Parks<br>
+*Journal of Environmental Economics and Management*, Vol 122(1).
+
+[<span style="color:#c869bf">Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) <br>
+Christian Baehr, Ariel BenYishay, and Brad Parks<br>
+*Journal of the Association of Environmental and Resource Economists*, Vol 8(2).
 
 [<span style="color:#c869bf">Is it possible for infrastructure not to hurt forests?</span>](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests) *(The First Tranche)*
 
