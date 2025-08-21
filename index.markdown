@@ -59,14 +59,14 @@ With Fiona Bare and Vincent Heddesheimer.
 
 [<span style="color:#c869bf">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/ilrzcgqoqaaoofltkfn9r/Baehr_Resources_CPW.pdf?rlkey=fwll7tskgkd7naizrf4hrdu24&st=0k921ru1&dl=0) *(Working Paper)*
 
-[<span style="color:#c869bf">Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria</span>]. With Hanno Hilbig and António Valentim. *(Working Paper)*
+<span style="color:#c869bf">Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria</span>. With Hanno Hilbig and António Valentim. *(Working Paper)*
 
 
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
 
-[<span style="color:#c869bf">Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway.</span>] <br>
+<span style="color:#c869bf">Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway.</span> <br>
 
-[<span style="color:#c869bf">Access to Sovereign Credit Markets and Trade Policy</span>]. With Layna Mosley. <br>
+<span style="color:#c869bf">Access to Sovereign Credit Markets and Trade Policy</span>. With Layna Mosley. <br>
 
 
 <h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
