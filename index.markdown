@@ -59,7 +59,7 @@ With Fiona Bare and Vincent Heddesheimer.
 
 [<span style="color:#c869bf">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/ilrzcgqoqaaoofltkfn9r/Baehr_Resources_CPW.pdf?rlkey=fwll7tskgkd7naizrf4hrdu24&st=0k921ru1&dl=0) *(Working Paper)* <br>
 
-Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria</span>. With Hanno Hilbig and António Valentim. *(Working Paper)* <br>
+Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria. With Hanno Hilbig and António Valentim. *(Working Paper)* <br>
 
 
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
