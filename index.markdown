@@ -43,7 +43,7 @@ Previously, I was a Junior Data Analyst for the AidData Research Lab at William 
 
 <h2 style="margin-top:20px;"><b>Dissertation Project</b></h2>
 
-<span style="color:#c869bf">“Global Economic Change and Domestic Political Responses”</span> <br>
+<h3>“Global Economic Change and Domestic Political Responses”</b></h3>
 
 My dissertation project investigates how diverse political actors respond to economic disruptions rooted in climate change and trade. In one chapter, currently under review, I investigate how governments respond to permanent, negative shocks to oil revenues. Building on the resource curse literature, I theorize that enduring oil price declines impose fiscal constraints on distributive policies of governments, forcing them to strategically invest in improving state effectiveness. The project links the resource curse literature to the clean energy transition and leverages the 2010 shale oil revolution as a natural experiment to show that rather than retrenching or liberalizing in the face of long-term oil price declines, governments instead pursue limited institutional reforms. 
 
@@ -57,18 +57,18 @@ The third chapter investigates voting responses to labor market disruptions from
 [<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) *(Conditionally Accepted at the American Journal of Political Science)* <br>
 With Fiona Bare and Vincent Heddesheimer.
 
-[<span style="color:#c869bf">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/ilrzcgqoqaaoofltkfn9r/Baehr_Resources_CPW.pdf?rlkey=fwll7tskgkd7naizrf4hrdu24&st=0k921ru1&dl=0) *(Working Paper)*
+[<span style="color:#c869bf">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/ilrzcgqoqaaoofltkfn9r/Baehr_Resources_CPW.pdf?rlkey=fwll7tskgkd7naizrf4hrdu24&st=0k921ru1&dl=0) *(Working Paper)* <br>
 
-<span style="color:#c869bf">Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria</span>. With Hanno Hilbig and António Valentim. *(Working Paper)*
+Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria</span>. With Hanno Hilbig and António Valentim. *(Working Paper)* <br>
 
 
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
 
-<span style="color:#c869bf">Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway.</span> <br>
+Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway. <br>
 
-<span style="color:#c869bf">Access to Sovereign Credit Markets and Trade Policy</span>. With Layna Mosley. <br>
+Access to Sovereign Credit Markets and Trade Policy</span>. With Layna Mosley. <br>
 
-<span style="color:#c869bf">The Effects of IMF Programs on Deforestation</span>. With James Vreeland. <br>
+The Effects of IMF Programs on Deforestation</span>. With James Vreeland. <br>
 
 
 <h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
