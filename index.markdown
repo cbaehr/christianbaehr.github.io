@@ -68,6 +68,8 @@ With Fiona Bare and Vincent Heddesheimer.
 
 <span style="color:#c869bf">Access to Sovereign Credit Markets and Trade Policy</span>. With Layna Mosley. <br>
 
+<span style="color:#c869bf">The Effects of IMF Programs on Deforestation</span>. With James Vreeland. <br>
+
 
 <h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
 
