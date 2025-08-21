@@ -34,14 +34,14 @@ layout: home
 
 I am a Ph.D Candidate in the Department of Politics at Princeton University. I am also a graduate affiliate with the Niehaus Center for Globalization and Governance and a Graduate Fellow with the Princeton Sovereign Finance Lab. You can find a copy of my CV [<span style="color:#c869bf">here</span>](https://www.dropbox.com/scl/fi/weg2rg8lvsnqxf0pxq67n/baehr_cv.pdf?rlkey=iny8alh8wug8urs394w1djrwa&st=uklrefpt&dl=0).
 
-My dissertation analyzes the effects of international economic changes from trade and climate change on the development of domestic political institutions and the political behavior of a range of domestic actors. More broadly, I study the political economy of climate change and government finance. My interests also include the politics of sovereign debt, the political economy of natural resources, and the impact of foreign aid interventions on human development and the environment.
+My dissertation project analyzes the effects of international economic changes related to climate change and trade on domestic institutional development and the political behavior of domestic actors. More broadly, I study the political economy of climate change and government finance. My interests also include the politics of sovereign debt, the political economy of natural resources, and the impact of foreign aid interventions on human development and the environment.
 
-I have extensive teaching experience spanning international relations and quantitative methods. At Princeton, I have assisted in instruction for PhD-level coursework in quantitative analysis and text-as-data and multiple undergraduate courses in international relations. I co-organized the R for Public Policy course for the Junior Summer Institute Program (through the Princeton School of Public and International Affairs) from 2022-24. I also designed and taught courses in introductory and advanced statistical programming and political methodology at William & Mary.
+I have extensive teaching experience spanning international relations and quantitative methods. At Princeton, I have assisted in instruction for PhD-level coursework in quantitative analysis and text-as-data and multiple undergraduate courses in international relations. I co-organized the R for Public Policy course for the Princeton Junior Summer Institute from 2022-24. I previously designed and taught courses in introductory and advanced statistical programming and political methodology at William & Mary.
 
-Previously, I was a Junior Data Analyst for the AidData Research Lab at William & Mary, where I conducted geospatial impact evaluations of development projects and also managed the AidData Geocoding team. I earned a A.B. in Economics from Washington University in St. Louis and an M.A. in Politics from Princeton University. 
+Previously, I was an analyst for the AidData Research Lab at William & Mary, where I conducted geospatial impact evaluations of development projects and also managed the AidData Geocoding team. I earned a A.B. in Economics from Washington University in St. Louis and an M.A. in Politics from Princeton University. 
 
 
-<h2 style="margin-top:20px;"><b>Dissertation Project: “Global Economic Change and Domestic Political Responses”</b></h2>
+<h2 style="margin-top:20px;"><b>Dissertation Project:</b> “Global Economic Change and Domestic Political Responses”</h2>
 
 My dissertation project investigates how diverse political actors respond to economic disruptions rooted in climate change and trade. In one chapter, currently under review, I investigate how governments respond to permanent, negative shocks to oil revenues. Building on the resource curse literature, I theorize that enduring oil price declines impose fiscal constraints on distributive policies of governments, forcing them to strategically invest in improving state effectiveness. The project links the resource curse literature to the clean energy transition and leverages the 2010 shale oil revolution as a natural experiment to show that rather than retrenching or liberalizing in the face of long-term oil price declines, governments instead pursue limited institutional reforms. 
 
@@ -52,22 +52,27 @@ The third chapter investigates voting responses to labor market disruptions from
 
 <h2 style="margin-top:20px;"><b>Published Research and Working Papers</b></h2>
 
-[<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) *(Conditionally Accepted at the American Journal of Political Science)* <br>
-With Fiona Bare and Vincent Heddesheimer.
+[<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) (Conditionally Accepted at the American Journal of Political Science) <br>
+*With Fiona Bare and Vincent Heddesheimer.* <br>
 
-[<span style="color:#c869bf">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/ilrzcgqoqaaoofltkfn9r/Baehr_Resources_CPW.pdf?rlkey=fwll7tskgkd7naizrf4hrdu24&st=0k921ru1&dl=0) *(Working Paper)* <br>
+[<span style="color:#c869bf">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/ilrzcgqoqaaoofltkfn9r/Baehr_Resources_CPW.pdf?rlkey=fwll7tskgkd7naizrf4hrdu24&st=0k921ru1&dl=0) (Working Paper) <br>
 
-Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria. With Hanno Hilbig and António Valentim. *(Working Paper)* <br>
+Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria. *With Hanno Hilbig and António Valentim.* (Working Paper) <br>
 
 
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
 
 Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway. <br>
 
-Access to Sovereign Credit Markets and Trade Policy. With Layna Mosley. <br>
+Access to Sovereign Credit Markets and Trade Policy. *With Layna Mosley.* <br>
 
-The Effects of IMF Programs on Deforestation. With James Vreeland. <br>
+Resource Curse in Reverse? Local Political Effects of Transitions from Fossil Fuels. *With Alex Gazmararian.* <br>
 
+Are Corporations People? Explaining Public Support for Special Interests. *With Fiona Bare, Alex Gazmararian, and Vincent Heddesheimer.* <br>
+
+The Effects of IMF Programs on Deforestation. *With James Vreeland.* <br>
+
+Satellite Imagery for Political Scientists. <br>
 
 <h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
 
