@@ -41,9 +41,7 @@ I have extensive teaching experience spanning international relations and quanti
 Previously, I was a Junior Data Analyst for the AidData Research Lab at William & Mary, where I conducted geospatial impact evaluations of development projects and also managed the AidData Geocoding team. I earned a A.B. in Economics from Washington University in St. Louis and an M.A. in Politics from Princeton University. 
 
 
-<h2 style="margin-top:20px;"><b>Dissertation Project</b></h2>
-
-<h3>“Global Economic Change and Domestic Political Responses”</b></h3>
+<h2 style="margin-top:20px;"><b>Dissertation Project: “Global Economic Change and Domestic Political Responses”</b></h2>
 
 My dissertation project investigates how diverse political actors respond to economic disruptions rooted in climate change and trade. In one chapter, currently under review, I investigate how governments respond to permanent, negative shocks to oil revenues. Building on the resource curse literature, I theorize that enduring oil price declines impose fiscal constraints on distributive policies of governments, forcing them to strategically invest in improving state effectiveness. The project links the resource curse literature to the clean energy transition and leverages the 2010 shale oil revolution as a natural experiment to show that rather than retrenching or liberalizing in the face of long-term oil price declines, governments instead pursue limited institutional reforms. 
 
@@ -66,9 +64,9 @@ Electoral Effects of Insurance Market Intervention: Evidence from California Wil
 
 Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway. <br>
 
-Access to Sovereign Credit Markets and Trade Policy</span>. With Layna Mosley. <br>
+Access to Sovereign Credit Markets and Trade Policy. With Layna Mosley. <br>
 
-The Effects of IMF Programs on Deforestation</span>. With James Vreeland. <br>
+The Effects of IMF Programs on Deforestation. With James Vreeland. <br>
 
 
 <h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
