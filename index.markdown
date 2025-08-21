@@ -43,7 +43,7 @@ Previously, I was a Junior Data Analyst for the AidData Research Lab at William 
 
 <h2 style="margin-top:20px;"><b>Dissertation Project</b></h2>
 
-[<span style="color:#c869bf">“Global Economic Change and Domestic Political Responses”</span>] <br>
+<span style="color:#c869bf">“Global Economic Change and Domestic Political Responses”</span> <br>
 
 My dissertation project investigates how diverse political actors respond to economic disruptions rooted in climate change and trade. In one chapter, currently under review, I investigate how governments respond to permanent, negative shocks to oil revenues. Building on the resource curse literature, I theorize that enduring oil price declines impose fiscal constraints on distributive policies of governments, forcing them to strategically invest in improving state effectiveness. The project links the resource curse literature to the clean energy transition and leverages the 2010 shale oil revolution as a natural experiment to show that rather than retrenching or liberalizing in the face of long-term oil price declines, governments instead pursue limited institutional reforms. 
 
