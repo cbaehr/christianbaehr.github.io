@@ -55,7 +55,7 @@ The third chapter investigates voting responses to labor market disruptions from
 [<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) (Conditionally Accepted at the American Journal of Political Science) <br>
 *With Fiona Bare and Vincent Heddesheimer.* <br>
 
-[<span style="color:#c869bf">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/ilrzcgqoqaaoofltkfn9r/Baehr_Resources_CPW.pdf?rlkey=fwll7tskgkd7naizrf4hrdu24&st=0k921ru1&dl=0) (Working Paper) <br>
+[<span style="color:#c869bf">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0) (Working Paper) <br>
 
 Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria. *With Hanno Hilbig and António Valentim.* (Working Paper) <br>
 
