@@ -90,7 +90,7 @@ Satellite Imagery for Political Scientists. <br>
 
 <h2 style="margin-top:20px;"><b>Software Packages</b></h2>
 
-<i>stylest2<i>: An R package for estimating speaker distinctiveness. With Arthur Spirling and Leslie Huang. <br>
+<i>stylest2</i>: An R package for estimating speaker distinctiveness. With Arthur Spirling and Leslie Huang. <br>
  Available on [CRAN](https://cran.r-project.org/web/packages/stylest2)
 
 <h2 style="margin-top:20px;"><b>Policy Writing and Prior Research</b></h2>
