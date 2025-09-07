@@ -88,6 +88,11 @@ Satellite Imagery for Political Scientists. <br>
 <h3 style="margin-top:16px;">POL 504: Text As Data (Fall 2023)</h3>
 <i>This graduate-level methods course trains students to be practitioners of textual methods, spanning from the foundations of text-as-data to cutting-edge machine learning methods for analyzing text.</i>
 
+<h2 style="margin-top:20px;"><b>Software Packages</b></h2>
+
+<i>stylest2<i>: An R package for estimating speaker distinctiveness. With Arthur Spirling and Leslie Huang. <br>
+ Available on [CRAN](https://cran.r-project.org/web/packages/stylest2)
+
 <h2 style="margin-top:20px;"><b>Policy Writing and Prior Research</b></h2>
 
 [<span style="color:#c869bf">Prospects for Venezuelan Debt Restructuring: A Trump Bump</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf) *(PSFL Policy Brief 25-1)*
