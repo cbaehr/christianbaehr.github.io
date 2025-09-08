@@ -97,7 +97,6 @@ Electoral Effects of Insurance Market Intervention: Evidence from California Wil
     Climate-change-induced disasters are straining home insurance markets, prompting state government interventions in response. With the frequency of such interventions increasing, there is as of yet little evidence on their political consequences. We study the electoral implications of one such intervention in California: a moratorium on insurer-initiated nonrenewals of homeowners insurance in areas affected by wildfires. For identification, we utilize the assignment of moratoria at the zip code level, which creates variation in moratorium exposure across adjacent areas. We employ a difference-in-differences design, comparing vote share trends in areas eligible for a moratorium (but not directly impacted by fire) to adjacent areas not eligible for a moratorium. We find no evidence that the moratorium benefited the governor or insurance commissioner in the first election after the moratorium was enacted. Additional heterogeneity analyses suggest voters who had already faced frequent nonrenewals viewed the one-year moratoria as an insufficient stop-gap, offsetting modest electoral rewards in areas not yet exposed to insurance market strain. 
     </div>
 </details> 
-<br>
 
 
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
