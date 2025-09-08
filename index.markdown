@@ -38,6 +38,9 @@ layout: home
     <a href="mailto:cbaehr@princeton.edu" aria-label="Email">
         <i class="fas fa-envelope-square" style="font-size:2.75em;"></i>
     </a>
+    <a href="https://x.com/christian_baehr" target="_blank">
+            <i class="fab fa-twitter-square fa-2x"></i>
+    </a>
     <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub">
         <i class="fab fa-github-square" style="font-size:2.75em;"></i>
     </a>
