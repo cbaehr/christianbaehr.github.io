@@ -4,6 +4,12 @@ layout: home
 # navigation_weight: 1
 ---
 
+<style>
+.spaced-lines {
+  font-size: 18px;
+  line-height: 1.6;
+}
+</style>
 
 <style>
 .image-left { float: none; }
