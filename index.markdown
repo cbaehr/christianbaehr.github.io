@@ -31,14 +31,17 @@ layout: home
        style="border:2px solid black; margin-bottom:4px;">
 
   <div class="icon-container">
-    <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub">
-      <i class="fab fa-github-square" style="font-size:3em;"></i>
-    </a>
     <a href="https://scholar.google.com/citations?user=LrncMjEAAAAJ&hl=en&oi=ao" target="_blank" aria-label="Google Scholar">
       <i class="ai ai-google-scholar" style="font-size:3em;"></i>
     </a>
     <a href="mailto:cbaehr@princeton.edu" aria-label="Email">
       <i class="fas fa-envelope-square" style="font-size:3em;"></i>
+    </a>
+    <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub">
+      <i class="fab fa-github-square" style="font-size:3em;"></i>
+    </a>
+    <a href="https://orcid.org/0000-0002-0927-3000" target="_blank">
+            <i class="ai ai-orcid ai-2x"></i>
     </a>
   </div>
 </div>
