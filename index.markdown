@@ -17,16 +17,20 @@ layout: home
 </style>
 
 <div class="image-icon-wrapper">
-  <img src="images/profile.jpg" alt="profile" class="image-left" width="280" style="border:2px solid black; margin-bottom:8px;">
+  <img src="images/profile.jpg" 
+       alt="profile" 
+       width="340"  <!-- bigger photo -->
+       style="border:2px solid black; margin-bottom:8px;">
+
   <div class="icon-container">
     <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub">
-      <i class="fab fa-github-square fa-3x"></i>
+      <i class="fab fa-github-square" style="font-size:2em;"></i>
     </a>
     <a href="https://scholar.google.com/citations?user=LrncMjEAAAAJ&hl=en&oi=ao" target="_blank" aria-label="Google Scholar">
-      <i class="ai ai-google-scholar ai-3x"></i>
+      <i class="ai ai-google-scholar" style="font-size:2em;"></i>
     </a>
     <a href="mailto:cbaehr@princeton.edu" aria-label="Email">
-      <i class="fas fa-envelope-square fa-3x"></i>
+      <i class="fas fa-envelope-square" style="font-size:2em;"></i>
     </a>
   </div>
 </div>
