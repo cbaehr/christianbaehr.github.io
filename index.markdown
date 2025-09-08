@@ -93,7 +93,7 @@ details summary {
 
 <div class="paper-row">
   <span>
-Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria. <em>With Hanno Hilbig and António Valentim.</em> (Working Paper, draft available upon request) </span>
+Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria. <em>With Hanno Hilbig and António Valentim.</em> (Working Paper, draft available upon request)</span>
 <details style="display:inline; margin-left:8px;"> 
 <summary style="display:inline; cursor:pointer; font-size:1.0em; color:#1a73e8">[abstract]</summary>
     <div style="font-size:1.0em; margin-top:8px;">
