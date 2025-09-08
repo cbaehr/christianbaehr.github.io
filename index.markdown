@@ -14,28 +14,30 @@ layout: home
 .spaced-lines {line-height: 20pt;} 
 </style>
 
-.icon-container {
-  float: right;      /* line up with the right edge */
-  clear: right;      /* force below the floated image */
+<style>
+.image-left { float: none; } /* cancel the float you had */
+.image-icon-wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end; /* right-align image + icons */
   margin-right: 20px;
-  margin-top: 8px;
 }
 .icon-container a { margin-right: 8px; }
+</style>
 
 <div class="image-icon-wrapper">
-    <img src="images/profile.jpg" alt="profile" class="image-left" width="280px" style="border: 2px solid black;">
-
-    <div class="icon-container">
-        <a href="https://github.com/cbaehr" target="_blank">
-            <i class="fab fa-github-square fa-3x"></i>
-        </a>
-        <a href="https://scholar.google.com/citations?user=LrncMjEAAAAJ&hl=en&oi=ao" target="_blank">
-            <i class="ai ai-google-scholar ai-3x"></i>
-        </a>
-        <a href="mailto:cbaehr@princeton.edu" target="_blank">
-            <i class="ai ai-orcid ai-3x"></i>
-        </a>
-    </div>
+  <img src="images/profile.jpg" alt="profile" class="image-left" width="280" style="border:2px solid black; margin-bottom:8px;">
+  <div class="icon-container">
+    <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub">
+      <i class="fab fa-github-square fa-3x"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=LrncMjEAAAAJ&hl=en&oi=ao" target="_blank" aria-label="Google Scholar">
+      <i class="ai ai-google-scholar ai-3x"></i>
+    </a>
+    <a href="mailto:cbaehr@princeton.edu" aria-label="Email">
+      <i class="fas fa-envelope-square fa-3x"></i>
+    </a>
+  </div>
 </div>
 
 <div markdown="1" class="spaced-lines">
