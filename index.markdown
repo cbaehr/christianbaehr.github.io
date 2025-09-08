@@ -91,10 +91,14 @@ details summary {
 
 [<span style="color:#1a73e8">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0) (Working Paper) <br>
 
-Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria. *With Hanno Hilbig and António Valentim.* (Working Paper, draft available upon request) <summary style="display:inline; cursor:pointer; font-size:0.7em; color:#1a73e8">[abstract]</summary>
+<div class="paper-row">
+  <span>
+Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria. *With Hanno Hilbig and António Valentim.* (Working Paper, draft available upon request)</span> <details> <summary style="display:inline; cursor:pointer; font-size:0.7em; color:#1a73e8">[abstract]</summary>
     <div style="font-size:0.7em; margin-top:8px;">
     Climate-change-induced disasters are straining home insurance markets, prompting state government interventions in response. With the frequency of such interventions increasing, there is as of yet little evidence on their political consequences. We study the electoral implications of one such intervention in California: a moratorium on insurer-initiated nonrenewals of homeowners insurance in areas affected by wildfires. For identification, we utilize the assignment of moratoria at the zip code level, which creates variation in moratorium exposure across adjacent areas. We employ a difference-in-differences design, comparing vote share trends in areas eligible for a moratorium (but not directly impacted by fire) to adjacent areas not eligible for a moratorium. We find no evidence that the moratorium benefited the governor or insurance commissioner in the first election after the moratorium was enacted. Additional heterogeneity analyses suggest voters who had already faced frequent nonrenewals viewed the one-year moratoria as an insufficient stop-gap, offsetting modest electoral rewards in areas not yet exposed to insurance market strain. 
     </div>
+  </details>
+ </div> 
 
 
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
