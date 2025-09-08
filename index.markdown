@@ -17,8 +17,8 @@ layout: home
 </style>
 
 body {
-  font-size: 18px;       /* bump base size */
-  line-height: 1.6;      /* good readability */
+  font-size: 18px;
+  line-height: 1.6;
 }
 
 <div class="image-icon-wrapper">
