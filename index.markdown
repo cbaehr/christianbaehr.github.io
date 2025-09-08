@@ -6,12 +6,12 @@ layout: home
 
 
 <style>
-.image-left { float: none; } /* cancel the float you had */
+.image-left { float: none; }
 .image-icon-wrapper{
   display: flex;
   flex-direction: column;
-  align-items: flex-end; /* right-align image + icons */
-  width: 500px;
+  align-items: flex-end;
+  width: 400px;
   margin-right: 40px;
 }
 .icon-container a { margin-right: 8px; }
