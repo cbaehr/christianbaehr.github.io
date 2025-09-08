@@ -39,13 +39,10 @@ layout: home
         <i class="fas fa-envelope-square" style="font-size:2.75em;"></i>
     </a>
     <a href="https://x.com/christian_baehr" target="_blank">
-            <i class="fab fa-twitter-square fa-2x"></i>
+            <i class="fab fa-twitter-square fa-2x" style="font-size:2.75em;"></i>
     </a>
     <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub">
         <i class="fab fa-github-square" style="font-size:2.75em;"></i>
-    </a>
-    <a href="https://orcid.org/0000-0002-0927-3000" target="_blank">
-        <i class="ai ai-orcid ai-2x" style="font-size:2.75em;"></i>
     </a>
   </div>
 </div>
