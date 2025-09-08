@@ -25,6 +25,38 @@ layout: home
 </style>
 
 
+
+
+<style>
+  html { scroll-behavior: smooth; }
+  /* fixed nav that sits beside the site title */
+  .section-nav {
+    position: fixed; top: 12px; right: 16px;
+    display: flex; gap: 8px; flex-wrap: wrap;
+    z-index: 1000; background: transparent;
+  }
+  .section-nav a {
+    display: inline-block; padding: 6px 10px;
+    border: 1px solid #1a73e8; border-radius: 9999px;
+    text-decoration: none; color: #1a73e8; font-size: 0.9em;
+  }
+  .section-nav a:hover { background: #1a73e8; color: #fff; }
+
+  h2 { scroll-margin-top: 72px; }
+</style>
+
+<div class="section-nav">
+  <a href="#dissertation">Dissertation</a>
+  <a href="#papers">Articles</a>
+  <a href="#wip">In-Progress</a>
+  <a href="#teaching">Teaching</a>
+  <a href="#software">Software</a>
+  <a href="#other-research">Other</a>
+</div>
+
+
+
+
 <div class="image-icon-wrapper">
   <img src="images/profile.jpg" 
        alt="profile" 
