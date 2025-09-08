@@ -19,7 +19,7 @@ layout: home
   align-items: flex-end;
   width: 300px;
   margin-right: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 .icon-container a { margin-right: 8px;}
 </style>
