@@ -16,82 +16,26 @@ layout: home
 .icon-container a { margin-right: 8px; }
 </style>
 
+<div class="image-icon-wrapper">
+  <img src="images/profile.jpg" 
+       alt="profile" 
+       width="500"
+       style="border:2px solid black; margin-bottom:8px;">
 
-
-<style>
-/* Layout */
-.content {
-  max-width: 760px;       /* your preferred content width */
-  margin: 0 auto;
-  margin-right: 360px;    /* make room for the sidebar width + gap */
-  padding: 0 16px;
-  box-sizing: border-box;
-}
-
-/* Fixed right sidebar */
-.sidebar-right {
-  position: fixed;
-  top: 80px;              /* distance from the top of the viewport */
-  right: 24px;            /* distance from the right edge */
-  width: 300px;           /* sidebar width */
-  z-index: 1000;
-}
-
-/* The image + icons column you already built */
-.image-icon-wrapper{
-  display: flex;
-  flex-direction: column;
-  align-items: center;    /* center icons under the photo; use flex-end to right-align */
-  gap: 8px;
-}
-
-.image-icon-wrapper img {
-  width: 340px;           /* photo size */
-  max-width: 100%;
-  border: 2px solid black;
-}
-
-/* Icon sizing/spacing */
-.icon-container i { font-size: 2em; }
-.icon-container a { margin: 0 6px; }
-
-/* Mobile/tablet: turn off fixed sidebar and put it inline */
-@media (max-width: 900px) {
-  .sidebar-right {
-    position: static;
-    width: auto;
-    margin: 16px 0;
-  }
-  .content {
-    margin-right: auto;   /* remove the reserved space */
-  }
-}
-</style>
-
-
-
-
-
-<div class="sidebar-right">
-  <div class="image-icon-wrapper">
-    <img src="images/profile.jpg" alt="profile">
-    <div class="icon-container">
-      <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub">
-        <i class="fab fa-github-square"></i>
-      </a>
-      <a href="https://scholar.google.com/citations?user=LrncMjEAAAAJ&hl=en&oi=ao" target="_blank" aria-label="Google Scholar">
-        <i class="ai ai-google-scholar"></i>
-      </a>
-      <a href="mailto:cbaehr@princeton.edu" aria-label="Email">
-        <i class="fas fa-envelope-square"></i>
-      </a>
-    </div>
+  <div class="icon-container">
+    <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub">
+      <i class="fab fa-github-square" style="font-size:2em;"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=LrncMjEAAAAJ&hl=en&oi=ao" target="_blank" aria-label="Google Scholar">
+      <i class="ai ai-google-scholar" style="font-size:2em;"></i>
+    </a>
+    <a href="mailto:cbaehr@princeton.edu" aria-label="Email">
+      <i class="fas fa-envelope-square" style="font-size:2em;"></i>
+    </a>
   </div>
 </div>
 
-<div class="content">
-
-
+<div markdown="1" class="spaced-lines">
 
 I am a Ph.D Candidate in the Department of Politics at Princeton University. I am also a graduate affiliate with the Niehaus Center for Globalization and Governance and a Graduate Fellow with the Princeton Sovereign Finance Lab. You can find a copy of my CV [<span style="color:#1a73e8">here</span>](https://www.dropbox.com/scl/fi/i0g8oah9l7sury15gsg90/baehr_cv.pdf?rlkey=s3zq5x9twmkaomxws45d1jhqf&st=hphxb5fx&dl=0).
 
@@ -191,4 +135,4 @@ Christian Baehr, Ariel BenYishay, and Bradley Parks<br>
 
 [<span style="color:#1a73e8">How Cambodia's program to strengthen local governance built roads and saved lives</span>](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives) *(The First Tranche)*
 
-</div>
+&nbsp;
