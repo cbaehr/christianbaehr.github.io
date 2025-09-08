@@ -87,11 +87,11 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d). *With Fiona Bare and Vincent Heddesheimer.* (Conditionally Accepted at the American Journal of Political Science) <br>
 
-[<span style="color:#1a73e8">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0). (Working Paper) <br>
+[<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0). (Working Paper) <br>
 
 <div class="paper-row">
   <span>
-Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria. <em>With Hanno Hilbig and António Valentim.</em> (Working Paper, draft available upon request)</span>
+<strong>Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria</strong>. <em>With Hanno Hilbig and António Valentim.</em> (Working Paper, draft available upon request)</span>
 <details style="display:inline; margin-left:8px;"> 
 <summary style="display:inline; cursor:pointer; font-size:1.0em; color:#1a73e8">[abstract]</summary>
     <div style="font-size:1.0em; margin-top:25px;">
@@ -103,17 +103,17 @@ Electoral Effects of Insurance Market Intervention: Evidence from California Wil
 
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
 
-Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway. <br>
+<strong>Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway</strong>. <br>
 
-Access to Sovereign Credit Markets and Trade Policy. *With Layna Mosley.* <br>
+<strong>Access to Sovereign Credit Markets and Trade Policy</strong>. *With Layna Mosley.* <br>
 
-Resource Curse in Reverse? Local Political Effects of Transitions from Fossil Fuels. *With Alex Gazmararian.* <br>
+<strong>Resource Curse in Reverse? Local Political Effects of Transitions from Fossil Fuels</strong>. *With Alex Gazmararian.* <br>
 
-Are Corporations People? Explaining Public Support for Special Interests. *With Fiona Bare, Alex Gazmararian, and Vincent Heddesheimer.* <br>
+<strong>Are Corporations People? Explaining Public Support for Special Interests</strong>. *With Fiona Bare, Alex Gazmararian, and Vincent Heddesheimer.* <br>
 
-The Effects of IMF Programs on Deforestation. *With James Raymond Vreeland.* <br>
+<strong>The Effects of IMF Programs on Deforestation</strong>. *With James Raymond Vreeland.* <br>
 
-Satellite Imagery for Political Scientists. <br>
+<strong>Satellite Imagery for Political Scientists</strong>. <br>
 
 <h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
 
