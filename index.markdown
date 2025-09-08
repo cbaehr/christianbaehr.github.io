@@ -14,6 +14,14 @@ layout: home
 .spaced-lines {line-height: 20pt;} 
 </style>
 
+.icon-container {
+  float: right;      /* line up with the right edge */
+  clear: right;      /* force below the floated image */
+  margin-right: 20px;
+  margin-top: 8px;
+}
+.icon-container a { margin-right: 8px; }
+
 <div class="image-icon-wrapper">
     <img src="images/profile.jpg" alt="profile" class="image-left" width="280px" style="border: 2px solid black;">
 
