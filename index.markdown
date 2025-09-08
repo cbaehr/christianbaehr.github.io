@@ -52,8 +52,8 @@ details summary {
 </style>
 
 <h2 style="margin-top:20px;"><b>Dissertation Project:</b> "Global Economic Change and Domestic Political Responses" <details style="display:inline;">
-    <summary style="display:inline; cursor:pointer; font-size:0.6em; color:#1a73e8">[description]</summary>
-    <div style="font-size:0.5em; margin-top:8px;">
+    <summary style="display:inline; cursor:pointer; font-size:0.7em; color:#1a73e8">[description]</summary>
+    <div style="font-size:0.7em; margin-top:8px;">
     My dissertation project investigates how diverse political actors respond to economic disruptions rooted in climate change and trade. In one chapter, currently under review, I investigate how governments respond to permanent, negative shocks to oil revenues. Building on the resource curse literature, I theorize that enduring oil price declines impose fiscal constraints on distributive policies of governments, forcing them to strategically invest in improving state effectiveness. The project links the resource curse literature to the clean energy transition and leverages the 2010 shale oil revolution as a natural experiment to show that rather than retrenching or liberalizing in the face of long-term oil price declines, governments instead pursue limited institutional reforms. <br>
     <br>
     A second chapter, co-authored with Fiona Bare and Vincent Heddesheimer, examines how firms respond to business risks and opportunities from climate change. This paper has been conditionally accepted for publication at the American Journal of Political Science. We develop a theory of firm lobbying behavior grounded in the distinct policy solutions relevant to various types of climate exposure. Using firm-level data from earnings calls and lobbying disclosures, we show that firms are more likely to engage in lobbying when they perceive climate-related business opportunities, not just risks. <br>
