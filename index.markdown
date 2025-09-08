@@ -32,13 +32,13 @@ layout: home
 
   <div class="icon-container">
     <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub">
-      <i class="fab fa-github-square" style="font-size:4em;"></i>
+      <i class="fab fa-github-square" style="font-size:3em;"></i>
     </a>
     <a href="https://scholar.google.com/citations?user=LrncMjEAAAAJ&hl=en&oi=ao" target="_blank" aria-label="Google Scholar">
-      <i class="ai ai-google-scholar" style="font-size:6em;"></i>
+      <i class="ai ai-google-scholar" style="font-size:3em;"></i>
     </a>
     <a href="mailto:cbaehr@princeton.edu" aria-label="Email">
-      <i class="fas fa-envelope-square" style="font-size:2em;"></i>
+      <i class="fas fa-envelope-square" style="font-size:3em;"></i>
     </a>
   </div>
 </div>
