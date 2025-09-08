@@ -35,13 +35,13 @@ layout: home
     <a href="https://scholar.google.com/citations?user=LrncMjEAAAAJ&hl=en&oi=ao" target="_blank" aria-label="Google Scholar" title="Google Scholar">
         <i class="ai ai-google-scholar" style="font-size:2.75em;"></i>
     </a>
-    <a href="mailto:cbaehr@princeton.edu" aria-label="Email">
+    <a href="mailto:cbaehr@princeton.edu" aria-label="Email" title="Email">
         <i class="fas fa-envelope-square" style="font-size:2.75em;"></i>
     </a>
-    <a href="https://x.com/christian_baehr" target="_blank">
+    <a href="https://x.com/christian_baehr" target="_blank" title="Twitter">
             <i class="fab fa-twitter-square fa-2x" style="font-size:2.75em;"></i>
     </a>
-    <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub">
+    <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub" title="GitHub">
         <i class="fab fa-github-square" style="font-size:2.75em;"></i>
     </a>
   </div>
