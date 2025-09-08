@@ -1,0 +1,36 @@
+---
+---
+
+@import "minima";
+
+p {
+  line-height: 1.6;
+}
+body {
+    font-size: 14px;
+}
+.wrapper {
+    max-width: calc(1000px - (30px * 2));  /* Change this to your desired width */
+    margin: 0 auto;    /* This centers the content */
+}
+
+.image-icon-wrapper {
+    float: right;
+    margin-left: 40px;
+    width: 200px; /* The same width as your image */
+    text-align: center; /* This will center the icons */
+}
+
+.icon-container {
+  float: left;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.icon-container a {
+  margin-right: 10px; /* spacing between icons */
+  color: inherit; /* this makes sure the icons take the color of the surrounding text */
+  text-decoration: none; /* removes the underline from the links */
+}
+
