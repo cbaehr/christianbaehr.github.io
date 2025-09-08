@@ -16,6 +16,11 @@ layout: home
 .icon-container a { margin-right: 8px; }
 </style>
 
+body {
+  font-size: 18px;       /* bump base size */
+  line-height: 1.6;      /* good readability */
+}
+
 <div class="image-icon-wrapper">
   <img src="images/profile.jpg" 
        alt="profile" 
@@ -36,6 +41,7 @@ layout: home
 </div>
 
 <div markdown="1" class="spaced-lines">
+
 
 I am a Ph.D Candidate in the Department of Politics at Princeton University. I am also a graduate affiliate with the Niehaus Center for Globalization and Governance and a Graduate Fellow with the Princeton Sovereign Finance Lab. You can find a copy of my CV [<span style="color:#1a73e8">here</span>](https://www.dropbox.com/scl/fi/i0g8oah9l7sury15gsg90/baehr_cv.pdf?rlkey=s3zq5x9twmkaomxws45d1jhqf&st=hphxb5fx&dl=0).
 
