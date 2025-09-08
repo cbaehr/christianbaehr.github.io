@@ -20,7 +20,7 @@ layout: home
   width: 300px;
   margin-right: 20px;
 }
-.icon-container a { margin-right: 8px; }
+.icon-container a { margin-right: 8px; margin-bottom: 20px;}
 </style>
 
 
