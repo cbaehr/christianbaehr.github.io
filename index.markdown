@@ -6,7 +6,7 @@ layout: home
 
 <style>
 .spaced-lines {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.6;
 }
 </style>
