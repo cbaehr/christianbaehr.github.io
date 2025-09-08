@@ -18,7 +18,7 @@ layout: home
   flex-direction: column;
   align-items: flex-end;
   width: 300px;
-  margin-right: 20px;
+  margin-right: 10px;
   margin-bottom: 10px;
 }
 .icon-container a { margin-right: 8px;}
