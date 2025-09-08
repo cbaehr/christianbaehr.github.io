@@ -32,7 +32,7 @@ layout: home
 
 <div markdown="1" class="spaced-lines">
 
-I am a Ph.D Candidate in the Department of Politics at Princeton University. I am also a graduate affiliate with the Niehaus Center for Globalization and Governance and a Graduate Fellow with the Princeton Sovereign Finance Lab. You can find a copy of my CV [<span style="color:#c869bf">here</span>](https://www.dropbox.com/scl/fi/i0g8oah9l7sury15gsg90/baehr_cv.pdf?rlkey=s3zq5x9twmkaomxws45d1jhqf&st=hphxb5fx&dl=0).
+I am a Ph.D Candidate in the Department of Politics at Princeton University. I am also a graduate affiliate with the Niehaus Center for Globalization and Governance and a Graduate Fellow with the Princeton Sovereign Finance Lab. You can find a copy of my CV [<span style="color:#1a73e8">here</span>](https://www.dropbox.com/scl/fi/i0g8oah9l7sury15gsg90/baehr_cv.pdf?rlkey=s3zq5x9twmkaomxws45d1jhqf&st=hphxb5fx&dl=0).
 
 My dissertation project analyzes the effects of international economic changes related to climate change and trade on domestic institutional development and the political behavior of domestic actors. More broadly, I study the political economy of climate change and government finance. My interests also include the politics of sovereign debt, the political economy of natural resources, and the impact of foreign aid interventions on human development and the environment.
 
@@ -52,12 +52,14 @@ details summary {
 </style>
 
 <h2 style="margin-top:20px;"><b>Dissertation Project:</b> "Global Economic Change and Domestic Political Responses" <details style="display:inline;">
-    <summary style="display:inline; cursor:pointer; font-size:0.8em; color:#c869bf">[description]</summary>
+    <summary style="display:inline; cursor:pointer; font-size:0.8em; color:#1a73e8">[description]</summary>
+    <div style="font-size:0.9em; margin-top:8px;">
     My dissertation project investigates how diverse political actors respond to economic disruptions rooted in climate change and trade. In one chapter, currently under review, I investigate how governments respond to permanent, negative shocks to oil revenues. Building on the resource curse literature, I theorize that enduring oil price declines impose fiscal constraints on distributive policies of governments, forcing them to strategically invest in improving state effectiveness. The project links the resource curse literature to the clean energy transition and leverages the 2010 shale oil revolution as a natural experiment to show that rather than retrenching or liberalizing in the face of long-term oil price declines, governments instead pursue limited institutional reforms. <br>
     <br>
     A second chapter, co-authored with Fiona Bare and Vincent Heddesheimer, examines how firms respond to business risks and opportunities from climate change. This paper has been conditionally accepted for publication at the American Journal of Political Science. We develop a theory of firm lobbying behavior grounded in the distinct policy solutions relevant to various types of climate exposure. Using firm-level data from earnings calls and lobbying disclosures, we show that firms are more likely to engage in lobbying when they perceive climate-related business opportunities, not just risks. <br>
     <br>
     The third chapter investigates voting responses to labor market disruptions from trade and climate change. While past work links employment in directly exposed industries (e.g., import-competing or fossil fuel sectors) to voting behavior, I argue that broader community-level effects are rooted in material harms experienced through indirect labor market exposure. This study challenges the view that such effects are purely identity-based, showing that indirect exposure still results in meaningful economic disruption—and political consequences—for workers in adjacent industries. This research has implications for the design of compensation and transition policies.
+    </div>
 </details>
 </h2>
 
@@ -66,10 +68,10 @@ details summary {
 
 <h2 style="margin-top:20px;"><b>Published Research and Working Papers</b></h2>
 
-[<span style="color:#c869bf">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) (Conditionally Accepted at the American Journal of Political Science) <br>
+[<span style="color:#1a73e8">Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</span>](https://osf.io/preprints/socarxiv/yq27d) (Conditionally Accepted at the American Journal of Political Science) <br>
 *With Fiona Bare and Vincent Heddesheimer.* <br>
 
-[<span style="color:#c869bf">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0) (Working Paper) <br>
+[<span style="color:#1a73e8">Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0) (Working Paper) <br>
 
 Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria. *With Hanno Hilbig and António Valentim.* (Working Paper) <br>
 
@@ -109,23 +111,23 @@ Satellite Imagery for Political Scientists. <br>
 
 <h2 style="margin-top:20px;"><b>Policy Writing and Prior Research</b></h2>
 
-[<span style="color:#c869bf">Prospects for Venezuelan Debt Restructuring: A Trump Bump</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf) *(PSFL Policy Brief 25-1)*
+[<span style="color:#1a73e8">Prospects for Venezuelan Debt Restructuring: A Trump Bump</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf) *(PSFL Policy Brief 25-1)*
 
-[<span style="color:#c869bf">How Do Governments Respond to Persistently High Commodity Prices</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf) *(PSFL Policy Brief 24-2)*
+[<span style="color:#1a73e8">How Do Governments Respond to Persistently High Commodity Prices</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf) *(PSFL Policy Brief 24-2)*
 
-[<span style="color:#c869bf">Landmine Clearance and Economic Development</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0) *(Revise and Resubmit at the Journal of Development Economics)* <br>
+[<span style="color:#1a73e8">Landmine Clearance and Economic Development</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0) *(Revise and Resubmit at the Journal of Development Economics)* <br>
 With Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker.
 
-[<span style="color:#c869bf">Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) <br>
+[<span style="color:#1a73e8">Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) <br>
 Christian Baehr, Ariel BenYishay, and Bradley Parks<br>
 *Journal of Environmental Economics and Management*, Vol 122(1).
 
-[<span style="color:#c869bf">Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) <br>
+[<span style="color:#1a73e8">Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) <br>
 Christian Baehr, Ariel BenYishay, and Bradley Parks<br>
 *Journal of the Association of Environmental and Resource Economists*, Vol 8(2).
 
-[<span style="color:#c869bf">Is it possible for infrastructure not to hurt forests?</span>](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests) *(The First Tranche)*
+[<span style="color:#1a73e8">Is it possible for infrastructure not to hurt forests?</span>](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests) *(The First Tranche)*
 
-[<span style="color:#c869bf">How Cambodia's program to strengthen local governance built roads and saved lives</span>](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives) *(The First Tranche)*
+[<span style="color:#1a73e8">How Cambodia's program to strengthen local governance built roads and saved lives</span>](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives) *(The First Tranche)*
 
 &nbsp;
