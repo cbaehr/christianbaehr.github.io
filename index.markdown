@@ -11,6 +11,7 @@ layout: home
   display: flex;
   flex-direction: column;
   align-items: flex-end; /* right-align image + icons */
+  width: 500px;
   margin-right: 40px;
 }
 .icon-container a { margin-right: 8px; }
