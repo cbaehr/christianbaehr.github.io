@@ -19,7 +19,7 @@ layout: home
   align-items: flex-end;
   width: 300px;
   margin-right: 20px;
-  margin-bottom: 12px;
+  margin-bottom: 10px;
 }
 .icon-container a { margin-right: 8px;}
 </style>
@@ -29,7 +29,7 @@ layout: home
   <img src="images/profile.jpg" 
        alt="profile" 
        width="1000"
-       style="border:2px solid black; margin-bottom:1px;">
+       style="border:2px solid black; margin-bottom:0.1px;">
 
   <div class="icon-container">
     <a href="https://scholar.google.com/citations?user=LrncMjEAAAAJ&hl=en&oi=ao" target="_blank" aria-label="Google Scholar">
