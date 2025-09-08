@@ -4,15 +4,6 @@ layout: home
 # navigation_weight: 1
 ---
 
-<style type="text/css">
-.image-left {
-  display: block;
-  margin-left: 20px;
-  margin-right: auto;
-  float: right;
-}
-.spaced-lines {line-height: 20pt;} 
-</style>
 
 <style>
 .image-left { float: none; } /* cancel the float you had */
