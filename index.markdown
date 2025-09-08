@@ -29,7 +29,7 @@ layout: home
   <img src="images/profile.jpg" 
        alt="profile" 
        width="1000"
-       style="border:2px solid black; margin-bottom:4px;">
+       style="border:2px solid black; margin-bottom:2px;">
 
   <div class="icon-container">
     <a href="https://scholar.google.com/citations?user=LrncMjEAAAAJ&hl=en&oi=ao" target="_blank" aria-label="Google Scholar">
