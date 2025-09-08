@@ -16,16 +16,12 @@ layout: home
 .icon-container a { margin-right: 8px; }
 </style>
 
-body {
-  font-size: 18px;
-  line-height: 1.6;
-}
 
 <div class="image-icon-wrapper">
   <img src="images/profile.jpg" 
        alt="profile" 
        width="1000"
-       style="border:2px solid black; margin-bottom:8px;">
+       style="border:2px solid black; margin-bottom:4px;">
 
   <div class="icon-container">
     <a href="https://github.com/cbaehr" target="_blank" aria-label="GitHub">
