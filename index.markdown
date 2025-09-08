@@ -14,6 +14,14 @@ layout: home
 .spaced-lines {line-height: 20pt;} 
 </style>
 
+<!-- Font Awesome 5 (matches your `fab fa-...` classes) -->
+<link rel="stylesheet"
+  href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+
+<!-- Academicons (for Google Scholar / ORCID icons) -->
+<link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css">
+
 <div class="image-icon-wrapper">
     <img src="images/profile.jpg" alt="profile" class="image-left" width="280px" style="border: 2px solid black;">
 
