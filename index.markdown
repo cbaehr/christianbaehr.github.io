@@ -112,7 +112,7 @@ Resource Curse in Reverse? Local Political Effects of Transitions from Fossil Fu
 
 Are Corporations People? Explaining Public Support for Special Interests. *With Fiona Bare, Alex Gazmararian, and Vincent Heddesheimer.* <br>
 
-The Effects of IMF Programs on Deforestation. *With James Vreeland.* <br>
+The Effects of IMF Programs on Deforestation. *With James Raymond Vreeland.* <br>
 
 Satellite Imagery for Political Scientists. <br>
 
