@@ -19,7 +19,7 @@ layout: home
 <div class="image-icon-wrapper">
   <img src="images/profile.jpg" 
        alt="profile" 
-       width="500"
+       width="1000"
        style="border:2px solid black; margin-bottom:8px;">
 
   <div class="icon-container">
