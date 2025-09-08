@@ -71,7 +71,7 @@ details summary {
 
 <h2 style="margin-top:20px;"><b>Dissertation Project:</b> "Global Economic Change and Domestic Political Responses" <details style="display:inline;">
     <summary style="display:inline; cursor:pointer; font-size:0.7em; color:#1a73e8">[details]</summary>
-    <div style="font-size:0.7em; margin-top:30px;">
+    <div style="font-size:0.7em; margin-top:25px;">
     My dissertation project investigates how diverse political actors respond to economic disruptions rooted in climate change and trade. In one chapter, currently under review, I investigate how governments respond to permanent, negative shocks to oil revenues. Building on the resource curse literature, I theorize that enduring oil price declines impose fiscal constraints on distributive policies of governments, forcing them to strategically invest in improving state effectiveness. The project links the resource curse literature to the clean energy transition and leverages the 2010 shale oil revolution as a natural experiment to show that rather than retrenching or liberalizing in the face of long-term oil price declines, governments instead pursue limited institutional reforms. <br>
     <br>
     A second chapter, co-authored with Fiona Bare and Vincent Heddesheimer, examines how firms respond to business risks and opportunities from climate change. This paper has been conditionally accepted for publication at the American Journal of Political Science. We develop a theory of firm lobbying behavior grounded in the distinct policy solutions relevant to various types of climate exposure. Using firm-level data from earnings calls and lobbying disclosures, we show that firms are more likely to engage in lobbying when they perceive climate-related business opportunities, not just risks. <br>
@@ -95,7 +95,7 @@ details summary {
 Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria. <em>With Hanno Hilbig and António Valentim.</em> (Working Paper, draft available upon request)</span>
 <details style="display:inline; margin-left:8px;"> 
 <summary style="display:inline; cursor:pointer; font-size:1.0em; color:#1a73e8">[abstract]</summary>
-    <div style="font-size:1.0em; margin-top:30px;">
+    <div style="font-size:1.0em; margin-top:25px;">
     Climate-change-induced disasters are straining home insurance markets, prompting state government interventions in response. With the frequency of such interventions increasing, there is as of yet little evidence on their political consequences. We study the electoral implications of one such intervention in California: a moratorium on insurer-initiated nonrenewals of homeowners insurance in areas affected by wildfires. For identification, we utilize the assignment of moratoria at the zip code level, which creates variation in moratorium exposure across adjacent areas. We employ a difference-in-differences design, comparing vote share trends in areas eligible for a moratorium (but not directly impacted by fire) to adjacent areas not eligible for a moratorium. We find no evidence that the moratorium benefited the governor or insurance commissioner in the first election after the moratorium was enacted. Additional heterogeneity analyses suggest voters who had already faced frequent nonrenewals viewed the one-year moratoria as an insufficient stop-gap, offsetting modest electoral rewards in areas not yet exposed to insurance market strain. 
     </div>
   </details>
