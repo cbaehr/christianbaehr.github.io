@@ -85,13 +85,13 @@ details summary {
 
 <h2 style="margin-top:20px;"><b>Published Research and Working Papers</b></h2>
 
-[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d). *With Fiona Bare and Vincent Heddesheimer.* (Conditionally Accepted at the American Journal of Political Science) <br>
+[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d), *with Fiona Bare and Vincent Heddesheimer.* (Conditionally Accepted at the American Journal of Political Science) <br>
 
 [<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0). (Working Paper) <br>
 
 <div class="paper-row">
   <span>
-<strong>Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria</strong>. <em>With Hanno Hilbig and António Valentim.</em> (Working Paper, draft available upon request)</span>
+<strong>Electoral Effects of Insurance Market Intervention: Evidence from California Wildfire Moratoria</strong>, <em>with Hanno Hilbig and António Valentim.</em> (Working Paper, draft available upon request)</span>
 <details style="display:inline; margin-left:8px;"> 
 <summary style="display:inline; cursor:pointer; font-size:1.0em; color:#1a73e8">[abstract]</summary>
     <div style="font-size:1.0em; margin-top:25px;">
@@ -105,13 +105,13 @@ details summary {
 
 <strong>Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway</strong>. <br>
 
-<strong>Access to Sovereign Credit Markets and Trade Policy</strong>. *With Layna Mosley.* <br>
+<strong>Access to Sovereign Credit Markets and Trade Policy</strong>, *with Layna Mosley.* <br>
 
-<strong>Resource Curse in Reverse? Local Political Effects of Transitions from Fossil Fuels</strong>. *With Alex Gazmararian.* <br>
+<strong>Resource Curse in Reverse? Local Political Effects of Transitions from Fossil Fuels</strong>, *with Alex Gazmararian.* <br>
 
-<strong>Are Corporations People? Explaining Public Support for Special Interests</strong>. *With Fiona Bare, Alex Gazmararian, and Vincent Heddesheimer.* <br>
+<strong>Are Corporations People? Explaining Public Support for Special Interests</strong>, *with Fiona Bare, Alex Gazmararian, and Vincent Heddesheimer.* <br>
 
-<strong>The Effects of IMF Programs on Deforestation</strong>. *With James Raymond Vreeland.* <br>
+<strong>The Effects of IMF Programs on Deforestation</strong>, *with James Raymond Vreeland.* <br>
 
 <strong>Satellite Imagery for Political Scientists</strong>. <br>
 
@@ -131,7 +131,7 @@ details summary {
 
 <h2 style="margin-top:20px;"><b>Software Packages</b></h2>
 
-<i>stylest2</i>: An R package for estimating speaker distinctiveness. With Arthur Spirling and Leslie Huang. <br>
+stylest2: An R package for estimating speaker distinctiveness, *with Arthur Spirling and Leslie Huang.* <br>
  Available on [<span style="color:#1a73e8">CRAN</span>](https://cran.r-project.org/web/packages/stylest2).
 
 <h2 style="margin-top:20px;"><b>Other Research</b></h2>
