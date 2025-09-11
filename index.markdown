@@ -117,7 +117,7 @@ details summary {
 
 <h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
 
-<h4 style="margin-top:16px;">POL 574: Quantitative Analysis IV (Spring 2025)</h4>
+POL 574: Quantitative Analysis IV (Spring 2025) <br>
 <i>This graduate-level, advanced methods course introduces students to the frontier of empirical text-as-data methods, with a focus on applications in political science.</i>
 
 <h3 style="margin-top:16px;">POL 392: American Foreign Policy (Fall 2024)</h3>
