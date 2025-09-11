@@ -140,8 +140,7 @@ stylest2: An R package for estimating speaker distinctiveness, *with Arthur Spir
 
 [<span style="color:#1a73e8">How Do Governments Respond to Persistently High Commodity Prices</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf) *(PSFL Policy Brief 24-2)*
 
-[<span style="color:#1a73e8">Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0) *(Revise and Resubmit at the Journal of Development Economics)* <br>
-With Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker.
+[<span style="color:#1a73e8">Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</span>](https://www.dropbox.com/scl/fi/93it7lac13ht4vcn7wj21/BenYishay-et-al-May-2024-Landmine-Clearance-and-Economic-Development.pdf?rlkey=vrqwu12pcrhs585yd2gee1ss7&e=1&dl=0), with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. *(Revise and Resubmit at the Journal of Development Economics)* <br>
 
 [<span style="color:#1a73e8">Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) <br>
 Christian Baehr, Ariel BenYishay, and Bradley Parks<br>
