@@ -49,7 +49,7 @@ layout: home
 <div markdown="1" class="spaced-lines">
 
 
-I am a Ph.D Candidate in the Department of Politics at Princeton University. I am also a graduate affiliate with the Niehaus Center for Globalization and Governance and a Graduate Fellow with the Princeton Sovereign Finance Lab. You can find an updated version of my CV [<span style="color:#1a73e8">here</span>](https://www.dropbox.com/scl/fi/i0g8oah9l7sury15gsg90/baehr_cv.pdf?rlkey=s3zq5x9twmkaomxws45d1jhqf&st=wmpjbmuz&dl=0).
+I am a Ph.D Candidate in the Department of Politics at Princeton University. I am also a graduate affiliate with the Niehaus Center for Globalization and Governance and a Graduate Fellow with the Princeton Sovereign Finance Lab. You can find an updated version of my CV [<span style="color:#1a73e8">here</span>](https://www.dropbox.com/scl/fi/i0g8oah9l7sury15gsg90/baehr_cv.pdf?rlkey=s3zq5x9twmkaomxws45d1jhqf&st=nudnm6eb&dl=0).
 
 My dissertation project analyzes the effects of international economic changes related to climate change and trade on domestic institutional development and the political behavior of domestic actors. More broadly, I study the political economy of climate change and government finance. My interests also include the politics of sovereign debt, the political economy of natural resources, and the impact of development interventions on human development and the environment.
 
