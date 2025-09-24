@@ -136,22 +136,24 @@ stylest2: An R package for estimating speaker distinctiveness, *with Arthur Spir
 
 <h2 style="margin-top:20px;"><b>Other Research</b></h2>
 
-[<span style="color:#1a73e8">Prospects for Venezuelan Debt Restructuring: A Trump Bump</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf) *(PSFL Policy Brief 25-1)*
+[<span style="color:#1a73e8">Prospects for Venezuelan Debt Restructuring: A Trump Bump</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf), 2025. *(PSFL Policy Brief 25-1)*
 
-[<span style="color:#1a73e8">How Do Governments Respond to Persistently High Commodity Prices</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf) *(PSFL Policy Brief 24-2)*
+[<span style="color:#1a73e8">How Do Governments Respond to Persistently High Commodity Prices</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf), 2024. *(PSFL Policy Brief 24-2)*
 
 [<span style="color:#1a73e8">Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</span>](https://www.dropbox.com/scl/fi/9lhdn9gqkh90gk6h8uiad/BenYishay-et-al-2025-Landmine-Clearance-and-Economic-Development.pdf?rlkey=2720udrbxzdmxsyf6zpiuew86&st=yxm41nz4&dl=0), with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. *(Revise and Resubmit at the Journal of Development Economics)* <br>
 
 [<span style="color:#1a73e8">Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) <br>
 Christian Baehr, Ariel BenYishay, and Bradley Parks<br>
-*Journal of Environmental Economics and Management*, Vol 122(1).
+*Journal of Environmental Economics and Management*, Vol 122(1), 2023.
 
 [<span style="color:#1a73e8">Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) <br>
 Christian Baehr, Ariel BenYishay, and Bradley Parks<br>
-*Journal of the Association of Environmental and Resource Economists*, Vol 8(2).
+*Journal of the Association of Environmental and Resource Economists*, Vol 8(2), 2021.
 
-[<span style="color:#1a73e8">Is it possible for infrastructure not to hurt forests?</span>](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests) *(The First Tranche)*
+[<span style="color:#1a73e8">Is it possible for infrastructure not to hurt forests?</span>](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests), 2021. *(The First Tranche)*
 
-[<span style="color:#1a73e8">How Cambodia's program to strengthen local governance built roads and saved lives</span>](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives) *(The First Tranche)*
+[<span style="color:#1a73e8">How Cambodia's program to strengthen local governance built roads and saved lives</span>](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives), 2019. *(The First Tranche)*
+
+[<span style="color:#1a73e8">Building on a Foundation Stone: The Long-Term Impacts of a Local Infrastructure and Governance Program in Cambodia</span>](https://www.aiddata.org/publications/building-on-a-foundation-stone), 2019, with Ariel BenYishay, Bradley Parks, Rachel Trichler, Daniel Aboagye, and Punwath Prum. *(Stockholm: Swedish EBA, AidData, and Open Development Cambodia)*
 
 &nbsp;
