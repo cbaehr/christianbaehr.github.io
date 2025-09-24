@@ -145,7 +145,7 @@ stylest2: An R package for estimating speaker distinctiveness, *with Arthur Spir
 [<span style="color:#1a73e8">Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) <br>
 Christian Baehr, Ariel BenYishay, and Bradley Parks<br>
 *Journal of Environmental Economics and Management*, Vol 122(1), 2023. <br>
-<div style="margin-left:20px; margin-top:0px; margin-bottom:12px; font-size:0.9em;">
+<div style="margin-left:20px; margin-top:0px; margin-bottom:18px; font-size:0.9em;">
  ↳ [Policy Brief](https://www.aiddata.org/publications/highway-to-the-forest)
 </div>
 
