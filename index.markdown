@@ -147,8 +147,7 @@ Christian Baehr, Ariel BenYishay, and Bradley Parks<br>
 *Journal of Environmental Economics and Management*, Vol 122(1), 2023. <br>
 <div style="margin-left:20px; font-size:0.9em;">
  ↳ [Policy Brief](https://www.aiddata.org/publications/highway-to-the-forest)
-</div>
-
+</div> <br>
 
 [<span style="color:#1a73e8">Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) <br>
 Christian Baehr, Ariel BenYishay, and Bradley Parks<br>
