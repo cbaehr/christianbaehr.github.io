@@ -115,7 +115,7 @@ details summary {
 
 <strong>Satellite Imagery for Political Scientists</strong>. <br>
 
-<h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
+<h2 style="margin-top:20px; margin-bottom:2px;"><b>Teaching Experience</b></h2>
 <i>*All experience listed is as a teaching assistant.</i>
 
 <strong>POL 574: Quantitative Analysis IV (Spring 2025)</strong> This graduate-level, advanced methods course introduces students to the frontier of empirical text-as-data methods, with a focus on applications in political science.
