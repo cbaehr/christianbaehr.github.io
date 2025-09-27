@@ -117,13 +117,13 @@ details summary {
 
 <h2 style="margin-top:20px;"><b>Teaching Experience</b></h2>
 
-<strong>POL 574: Quantitative Analysis IV (Spring 2025):</strong> This graduate-level, advanced methods course introduces students to the frontier of empirical text-as-data methods, with a focus on applications in political science.
+<strong>POL 574: Quantitative Analysis IV (Spring 2025)</strong> This graduate-level, advanced methods course introduces students to the frontier of empirical text-as-data methods, with a focus on applications in political science.
 
-<strong>POL 392: American Foreign Policy (Fall 2024):</strong> This undergraduate course analyzes the formation and conduct of foreign policy in the United States, focusing particularly on the causal role of the international system, public opinion, and the media in driving America's foreign policy.
+<strong>POL 392: American Foreign Policy (Fall 2024)</strong> This undergraduate course analyzes the formation and conduct of foreign policy in the United States, focusing particularly on the causal role of the international system, public opinion, and the media in driving America's foreign policy.
 
-<strong>POL 396: International Organizations (Spring 2024):</strong> This introductory course surveys the network of major international organizations and introduces undergraduate students to the political factors driving participation in, and behavior of, international organizations.
+<strong>POL 396: International Organizations (Spring 2024)</strong> This introductory course surveys the network of major international organizations and introduces undergraduate students to the political factors driving participation in, and behavior of, international organizations.
 
-<strong>POL 504: Text As Data (Fall 2023):</strong> This graduate-level methods course trains students to be practitioners of textual methods, spanning from the foundations of text-as-data to cutting-edge machine learning methods for analyzing text.
+<strong>POL 504: Text As Data (Fall 2023)</strong> This graduate-level methods course trains students to be practitioners of textual methods, spanning from the foundations of text-as-data to cutting-edge machine learning methods for analyzing text.
 
 <h2 style="margin-top:20px;"><b>Software Packages</b></h2>
 
