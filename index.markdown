@@ -17,7 +17,7 @@ layout: home
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  width: 300px;
+  width: 360px;
   margin-right: 10px;
   margin-bottom: 10px;
 }
