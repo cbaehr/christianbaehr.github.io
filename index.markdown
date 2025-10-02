@@ -52,13 +52,11 @@ layout: home
 <div markdown="1" class="spaced-lines">
 
 
-I am a Ph.D Candidate in the Department of Politics at Princeton University. I am also a graduate affiliate with the Niehaus Center for Globalization and Governance and a Graduate Fellow with the Princeton Sovereign Finance Lab. You can find an updated version of my CV [<span style="color:#1a73e8">here</span>](https://www.dropbox.com/scl/fi/i0g8oah9l7sury15gsg90/baehr_cv.pdf?rlkey=s3zq5x9twmkaomxws45d1jhqf&st=sa2xw77h&dl=0).
+I am a Ph.D. Candidate in Politics at Princeton University, a Graduate Affiliate of the Niehaus Center for Globalization and Governance, and a Graduate Fellow with the Princeton Sovereign Finance Lab. My research examines how international economic changes linked to climate change and public finance shape domestic institutions and political behavior. More broadly, I study the political economy of climate change, government finance and sovereign debt, and natural resources.
 
-My dissertation project analyzes the effects of international economic changes related to climate change and trade on domestic institutional development and the political behavior of domestic actors. More broadly, I study the political economy of climate change and government finance. My interests also include the politics of sovereign debt, the political economy of natural resources, and the impact of development interventions on human development and the environment.
+I have taught extensively in international relations and quantitative methods, assisting in Ph.D. courses on quantitative analysis and text-as-data and multiple undergraduate IR courses at Princeton. I co-organized the *R for Public Policy* course for the Princeton Junior Summer Institute (2022–24) and previously taught statistical programming and methodology courses at William & Mary.
 
-I have extensive teaching experience spanning international relations and quantitative methods. At Princeton, I have assisted in instruction for PhD-level coursework in quantitative analysis and text-as-data and multiple undergraduate courses in international relations. I co-organized the R for Public Policy course for the Princeton Junior Summer Institute from 2022-24. I previously designed and taught courses in introductory and advanced statistical programming and political methodology at William & Mary.
-
-Previously, I was an analyst for the AidData Research Lab at William & Mary, where I conducted geospatial impact evaluations of development projects and also managed the AidData Geocoding team. I earned a A.B. in Economics from Washington University in St. Louis and an M.A. in Politics from Princeton University. 
+Prior to graduate school, I was an analyst in the Research and Evaluation Unit at the AidData Research Lab at William & Mary, where I conducted geospatial impact evaluations of development projects and also oversaw the AidData Geocoding team. I earned a A.B. in Economics from Washington University in St. Louis and an M.A. in Politics from Princeton University. 
 
 <style>
 /* Hide the default triangle */
