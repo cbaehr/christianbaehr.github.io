@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+  <symbol id="cv" viewBox="0 0 16 16">
+    <title>CV</title>
+    <desc>Square icon with centered letters C and V</desc>
+    <rect x="1" y="1" width="14" height="14" rx="3" ry="3"
+          fill="none" stroke="currentColor" stroke-width="1.5"/>
+    <text x="8" y="8" text-anchor="middle" dominant-baseline="middle"
+          font-size="8.5" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          fill="currentColor" font-weight="700">CV</text>
+  </symbol>
+</svg>
