@@ -83,7 +83,7 @@ details summary {
 
 
 <h2 style="margin-top:20px; margin-bottom:-3px;"><b>Published Research and Working Papers</b></h2>
-<i style="margin-left:2px;">* indicates dissertation papers</i>
+<i style="margin-left:2px;">* denotes dissertation papers</i>
 
 [<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Conditionally Accepted at the American Journal of Political Science)* <br>
 
