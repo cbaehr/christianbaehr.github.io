@@ -83,12 +83,12 @@ details summary {
 
 
 
-<h2 style="margin-top:20px;"><b>Published Research and Working Papers</b></h2>
+<h2 style="margin-top:20px; margin-bottom:-3px;"><b>Published Research and Working Papers</b></h2>
 <i style="margin-left:2px;">* indicates dissertation papers.</i>
 
-[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)*, with Fiona Bare and Vincent Heddesheimer. *(Conditionally Accepted at the American Journal of Political Science)* <br>
+[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Conditionally Accepted at the American Journal of Political Science)* <br>
 
-[<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0)*. *(Working Paper)* <br>
+[<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0)\*. *(Working Paper)* <br>
 
 <div class="paper-row">
   <span>
@@ -104,7 +104,7 @@ details summary {
 
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
 
-<strong>Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway</strong>*. <br>
+<strong>Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway</strong>\*. <br>
 
 <strong>Access to Sovereign Credit Markets and Trade Policy</strong>, with Layna Mosley. <br>
 
@@ -117,7 +117,7 @@ details summary {
 <strong>Satellite Imagery for Political Scientists</strong>. <br>
 
 <h2 style="margin-top:20px; margin-bottom:-3px;"><b>Teaching Experience</b></h2>
-<i style="margin-left:2px;">* All experience listed is as a teaching assistant.</i>
+<i style="margin-left:2px;"> (All experience listed is as a teaching assistant.)</i>
 
 <strong>POL 574: Quantitative Analysis IV (Spring 2025)</strong> This graduate-level, advanced methods course introduces students to the frontier of empirical text-as-data methods, with a focus on applications in political science.
 
