@@ -52,7 +52,7 @@ layout: home
 <div markdown="1" class="spaced-lines">
 
 
-I am a Ph.D. Candidate in Politics at Princeton University, a Graduate Affiliate of the Niehaus Center for Globalization and Governance, and a Graduate Fellow with the Princeton Sovereign Finance Lab. My research examines how international economic changes linked to climate change and public finance shape domestic institutions and political behavior. More broadly, I study the political economy of climate change, government finance and sovereign debt, and natural resources.
+I am a Ph.D. Candidate in Politics at Princeton University, a Graduate Affiliate of the Niehaus Center for Globalization and Governance, and a Graduate Fellow with the Princeton Sovereign Finance Lab. My research examines how international economic changes linked to climate change and public finance shape domestic political institutions and behavior. More broadly, I study the political economy of climate change, government finance and sovereign debt, and natural resources.
 
 I have taught extensively in international relations and quantitative methods, assisting in Ph.D. courses on quantitative analysis and text-as-data and multiple undergraduate IR courses at Princeton. I co-organized the *R for Public Policy* course for the Princeton Junior Summer Institute (2022–24) and previously taught statistical programming and methodology courses at William & Mary.
 
