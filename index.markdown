@@ -84,7 +84,7 @@ details summary {
 
 
 <h2 style="margin-top:20px; margin-bottom:-3px;"><b>Published Research and Working Papers</b></h2>
-<i style="margin-left:2px;">* indicates dissertation papers.</i>
+<i style="margin-left:2px;">* indicates dissertation papers</i>
 
 [<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Conditionally Accepted at the American Journal of Political Science)* <br>
 
@@ -117,7 +117,7 @@ details summary {
 <strong>Satellite Imagery for Political Scientists</strong>. <br>
 
 <h2 style="margin-top:20px; margin-bottom:-3px;"><b>Teaching Experience</b></h2>
-<i style="margin-left:2px;"> (All experience listed is as a teaching assistant.)</i>
+<i style="margin-left:2px;"> (All experience listed is as a teaching assistant)</i>
 
 <strong>POL 574: Quantitative Analysis IV (Spring 2025)</strong> This graduate-level, advanced methods course introduces students to the frontier of empirical text-as-data methods, with a focus on applications in political science.
 
