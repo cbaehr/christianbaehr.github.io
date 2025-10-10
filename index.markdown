@@ -85,7 +85,7 @@ details summary {
 <h2 style="margin-top:20px; margin-bottom:-3px;"><b>Published Research and Working Papers</b></h2>
 <i style="margin-left:2px;">* denotes dissertation papers</i>
 
-[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Conditionally Accepted at the American Journal of Political Science)* <br>
+[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Forthcoming at the American Journal of Political Science)* <br>
 
 [<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0)\*. *(Working Paper)* <br>
 
