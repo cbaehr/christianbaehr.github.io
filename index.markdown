@@ -99,6 +99,7 @@ details summary {
     </div>
   </details>
  </div> 
+ <br>
 
 
 [<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.dropbox.com/scl/fi/9lhdn9gqkh90gk6h8uiad/BenYishay-et-al-2025-Landmine-Clearance-and-Economic-Development.pdf?rlkey=2720udrbxzdmxsyf6zpiuew86&st=yxm41nz4&dl=0)\*, with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. *(Revise & Resubmit at the Journal of Development Economics)* <br>
