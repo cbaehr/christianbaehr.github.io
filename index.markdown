@@ -101,6 +101,16 @@ details summary {
  </div> 
 
 
+[<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.dropbox.com/scl/fi/9lhdn9gqkh90gk6h8uiad/BenYishay-et-al-2025-Landmine-Clearance-and-Economic-Development.pdf?rlkey=2720udrbxzdmxsyf6zpiuew86&st=yxm41nz4&dl=0)\*, with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. *(Revise & Resubmit at the Journal of Development Economics)* <br>
+
+[<span style="color:#1a73e8"><strong>Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</strong></span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X)\*, with Ariel BenYishay and Bradley Parks. 2023. *Journal of Environmental Economics and Management*, 122 (1).  <br>
+<div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
+ ↳ [Policy Brief](https://www.aiddata.org/publications/highway-to-the-forest)
+</div>
+
+[<span style="color:#1a73e8"><strong>Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</strong></span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800)\*, with Ariel BenYishay and Bradley Parks. 2021. *Journal of the Association of Environmental and Resource Economists*, 8 (2).  <br>
+
+
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
 
 <strong>Indirect Labor Market Disruption and Voting Behavior: Evidence from the 2014 Oil Price Crash in Norway</strong>\*. <br>
@@ -136,19 +146,6 @@ details summary {
 [<span style="color:#1a73e8">Prospects for Venezuelan Debt Restructuring: A Trump Bump</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf). 2025. *(PSFL Policy Brief 25-1)*
 
 [<span style="color:#1a73e8">How Do Governments Respond to Persistently High Commodity Prices</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf). 2024. *(PSFL Policy Brief 24-2)*
-
-[<span style="color:#1a73e8">Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</span>](https://www.dropbox.com/scl/fi/9lhdn9gqkh90gk6h8uiad/BenYishay-et-al-2025-Landmine-Clearance-and-Economic-Development.pdf?rlkey=2720udrbxzdmxsyf6zpiuew86&st=yxm41nz4&dl=0), with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. *(Revise and Resubmit at the Journal of Development Economics)* <br>
-
-[<span style="color:#1a73e8">Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) <br>
-Christian Baehr, Ariel BenYishay, and Bradley Parks<br>
-*Journal of Environmental Economics and Management*, Vol 122(1), 2023. <br>
-<div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
- ↳ [Policy Brief](https://www.aiddata.org/publications/highway-to-the-forest)
-</div>
-
-[<span style="color:#1a73e8">Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) <br>
-Christian Baehr, Ariel BenYishay, and Bradley Parks<br>
-*Journal of the Association of Environmental and Resource Economists*, Vol 8(2), 2021.
 
 [<span style="color:#1a73e8">Is it possible for infrastructure not to hurt forests?</span>](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests) 2021. *(The First Tranche)*
 
