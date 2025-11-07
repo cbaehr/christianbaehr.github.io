@@ -92,7 +92,7 @@ details summary {
 <div class="paper-row">
   <span>
 <strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong>, with Hanno Hilbig and António Valentim. <em>(Working Paper, draft available upon request)</em> </span>
-<details style="display:inline; margin-left:8px;"> 
+<details style="display:inline; margin-left:8px; margin-bottom:5px"> 
 <summary style="display:inline; cursor:pointer; font-size:1.0em; color:#1a73e8">[abstract]</summary>
     <div style="font-size:1.0em; margin-top:25px;">
       As climate impacts intensify, governments increasingly deploy climate adaptation policies, yet their electoral consequences remain poorly understood. We study moratoria on homeowners insurance nonrenewals after California wildfires. Using a difference-in-differences design exploiting eligibility rules, we find null effects on electoral support for the incumbents. To explain this, we argue that the electoral effect of adaptation is path-dependent: prior crisis experience sets the standard for what voters perceive as a sufficient policy. Consistent with this, we find a modest electoral reward where prior insurance disruption was limited, but none where it was chronic. Survey evidence indicates that, prior to the policy, residents of high-disruption areas already held more negative and crystallized views of the governor. Our findings offer a framework for the politics of adaptation, showing that credit hinges on perceived sufficiency: a standard set not by the policy alone, but by voters' prior experience with the crisis.
