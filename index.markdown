@@ -96,8 +96,7 @@ details summary {
       As climate impacts intensify, governments increasingly deploy climate adaptation policies, yet their electoral consequences remain poorly understood. We study moratoria on homeowners insurance nonrenewals after California wildfires. Using a difference-in-differences design exploiting eligibility rules, we find null effects on electoral support for the incumbents. To explain this, we argue that the electoral effect of adaptation is path-dependent: prior crisis experience sets the standard for what voters perceive as a sufficient policy. Consistent with this, we find a modest electoral reward where prior insurance disruption was limited, but none where it was chronic. Survey evidence indicates that, prior to the policy, residents of high-disruption areas already held more negative and crystallized views of the governor. Our findings offer a framework for the politics of adaptation, showing that credit hinges on perceived sufficiency: a standard set not by the policy alone, but by voters' prior experience with the crisis.
     </div>
   </details>
-   <br>
- </div>
+<br>
 
 [<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.dropbox.com/scl/fi/9lhdn9gqkh90gk6h8uiad/BenYishay-et-al-2025-Landmine-Clearance-and-Economic-Development.pdf?rlkey=2720udrbxzdmxsyf6zpiuew86&st=yxm41nz4&dl=0)\*, with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. *(Revise & Resubmit at the Journal of Development Economics)* <br>
 
