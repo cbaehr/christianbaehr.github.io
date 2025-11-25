@@ -87,13 +87,7 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Forthcoming at the American Journal of Political Science)* <br>
 
-[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v1)\*, with Hanno Hilbig and António Valentim. <em>(Under Review)</em> <details style="display:inline; margin-left:8px;"> 
-<summary style="display:inline; cursor:pointer; font-size:1.0em; color:#1a73e8">[abstract]</summary>
-    <div style="font-size:1.0em; margin-top:25px;">
-      As climate impacts intensify, governments increasingly deploy climate adaptation policies, yet their electoral consequences remain poorly understood. We study moratoria on homeowners insurance nonrenewals after California wildfires. Using a difference-in-differences design exploiting eligibility rules, we find null effects on electoral support for the incumbents. To explain this, we argue that the electoral effect of adaptation is path-dependent: prior crisis experience sets the standard for what voters perceive as a sufficient policy. Consistent with this, we find a modest electoral reward where prior insurance disruption was limited, but none where it was chronic. Survey evidence indicates that, prior to the policy, residents of high-disruption areas already held more negative and crystallized views of the governor. Our findings offer a framework for the politics of adaptation, showing that credit hinges on perceived sufficiency: a standard set not by the policy alone, but by voters' prior experience with the crisis.
-    </div>
-  </details>
-<br>
+[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v1)\*, with Hanno Hilbig and António Valentim. *(Under Review)* <br>
 
 [<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0)\*. *(Working Paper)* <br>
 
