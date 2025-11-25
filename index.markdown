@@ -89,9 +89,7 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0)\*. *(Working Paper)* <br>
 
-<div class="paper-row">
-  <span>
-<strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong>, with Hanno Hilbig and António Valentim. <em>(Working Paper, draft available upon request)</em> </span>
+[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v1)\*, with Hanno Hilbig and António Valentim. <em>(Under Review)</em>
 <details style="display:inline; margin-left:8px;"> 
 <summary style="display:inline; cursor:pointer; font-size:1.0em; color:#1a73e8">[abstract]</summary>
     <div style="font-size:1.0em; margin-top:25px;">
