@@ -87,11 +87,11 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Forthcoming at the American Journal of Political Science)* <br>
 
-[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2), with Hanno Hilbig and António Valentim. *(Under Review)* <br>
+[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2), with Hanno Hilbig and António Valentim. *(Under review)* <br>
 
-[<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0)\*. *(Working Paper)* <br>
+[<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://www.dropbox.com/scl/fi/kyour85lxsb7rhemmxb0f/Baehr_2025_ShaleRevolution.pdf?rlkey=vh0g5ee7wxbzxyu3ohfi08olz&st=t3tfnywq&dl=0)\*. *(Under review)* <br>
 
-[<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.dropbox.com/scl/fi/9lhdn9gqkh90gk6h8uiad/BenYishay-et-al-2025-Landmine-Clearance-and-Economic-Development.pdf?rlkey=2720udrbxzdmxsyf6zpiuew86&st=yxm41nz4&dl=0), with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. *(Revise & Resubmit at the Journal of Development Economics)* <br>
+[<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.dropbox.com/scl/fi/9lhdn9gqkh90gk6h8uiad/BenYishay-et-al-2025-Landmine-Clearance-and-Economic-Development.pdf?rlkey=2720udrbxzdmxsyf6zpiuew86&st=yxm41nz4&dl=0), with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. *(Revise & resubmit at the Journal of Development Economics)* <br>
 
 [<span style="color:#1a73e8"><strong>Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</strong></span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X), with Ariel BenYishay and Bradley Parks. 2023. *Journal of Environmental Economics and Management*, 122 (1).  <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
