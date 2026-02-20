@@ -113,9 +113,6 @@ details summary {
 
 <strong>Are Corporations People? Explaining Public Support for Special Interests</strong>, with Fiona Bare, Alex Gazmararian, and Vincent Heddesheimer. <br>
 
-<strong>The Effects of IMF Programs on Deforestation</strong>, with James Raymond Vreeland. <br>
-
-<strong>Satellite Imagery for Political Scientists</strong>. <br>
 
 <h2 style="margin-top:20px; margin-bottom:-3px;"><b>Teaching Experience</b></h2>
 <i style="margin-left:2px;"> (All experience listed is as a teaching assistant)</i>
