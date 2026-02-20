@@ -141,7 +141,7 @@ details summary {
 
 [<span style="color:#1a73e8">Building on a Foundation Stone: The Long-Term Impacts of a Local Infrastructure and Governance Program in Cambodia</span>](https://www.aiddata.org/publications/building-on-a-foundation-stone). 2019, with Ariel BenYishay, Bradley Parks, Rachel Trichler, Daniel Aboagye, and Punwath Prum. *(Stockholm: Swedish EBA, AidData, and Open Development Cambodia)*
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
- • Media: [Dagens Nyheter](https://www.dn.se/nyheter/vetenskap/effekten-av-bistandet-syns-fran-rymden)
+ • Media: [Dagens Nyheter](https://www.dn.se/nyheter/vetenskap/effekten-av-bistandet-syns-fran-rymden) <br>
  • Blog Post: [Local governance](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives)
 </div>
 
