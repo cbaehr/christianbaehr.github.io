@@ -99,7 +99,9 @@ details summary {
 </div>
 
 [<span style="color:#1a73e8"><strong>Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</strong></span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800), with Ariel BenYishay and Bradley Parks. 2021. *Journal of the Association of Environmental and Resource Economists*, 8 (2).  <br>
-
+<div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
+ • Blog Posts: [Infrastructure](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests), [development](https://www.aiddata.org/blog/development-that-doesnt-deforest-study-points-to-path-forward-for-local-infrastructure-projects)
+</div>
 
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
 
@@ -137,13 +139,10 @@ details summary {
 
 [<span style="color:#1a73e8">How Do Governments Respond to Persistently High Commodity Prices</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf). 2024. *(PSFL Policy Brief 24-2)*
 
-[<span style="color:#1a73e8">Is it possible for infrastructure not to hurt forests?</span>](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests) 2021. *(The First Tranche)*
-
-[<span style="color:#1a73e8">How Cambodia's program to strengthen local governance built roads and saved lives</span>](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives). 2019. *(The First Tranche)*
-
 [<span style="color:#1a73e8">Building on a Foundation Stone: The Long-Term Impacts of a Local Infrastructure and Governance Program in Cambodia</span>](https://www.aiddata.org/publications/building-on-a-foundation-stone). 2019, with Ariel BenYishay, Bradley Parks, Rachel Trichler, Daniel Aboagye, and Punwath Prum. *(Stockholm: Swedish EBA, AidData, and Open Development Cambodia)*
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
- • Press Coverage: [Dagens Nyheter](https://www.dn.se/nyheter/vetenskap/effekten-av-bistandet-syns-fran-rymden)
+ • Media: [Dagens Nyheter](https://www.dn.se/nyheter/vetenskap/effekten-av-bistandet-syns-fran-rymden)
+ • Blog Post: [Local governance](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives)
 </div>
 
 
