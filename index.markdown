@@ -133,7 +133,7 @@ details summary {
 *stylest2: An R package for estimating speaker distinctiveness*, with Arthur Spirling and Leslie Huang. <br>
  Available on [<span style="color:#1a73e8">CRAN</span>](https://cran.r-project.org/web/packages/stylest2).
 
-<h2 style="margin-top:20px;"><b>Other Research</b></h2>
+<h2 style="margin-top:20px;"><b>Policy Research</b></h2>
 
 [<span style="color:#1a73e8">Prospects for Venezuelan Debt Restructuring: A Trump Bump</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf). 2025. *(PSFL Policy Brief 25-1)*
 
