@@ -102,9 +102,9 @@ details summary {
  • Blog: [The First Tranche](https://www.aiddata.org/blog/afghanistans-national-program-to-clear-landmines-delivered-broad-based-impacts-study-finds)
 </div>
 
-[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2), with Hanno Hilbig and António Valentim. *(Under review)* <br>
-
 [<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://osf.io/preprints/socarxiv/pc5nz_v1)\*. *(Under review)* <br>
+
+[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2), with Hanno Hilbig and António Valentim. *(Under review)* <br>
 
 
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
