@@ -92,7 +92,7 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</strong></span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800), with Ariel BenYishay and Bradley Parks. 2021. *Journal of the Association of Environmental and Resource Economists*, 8 (2).  <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
- • Blogs: The First Tranche [\[1\]](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests), [\[2\]](https://www.aiddata.org/blog/development-that-doesnt-deforest-study-points-to-path-forward-for-local-infrastructure-projects)
+ • Blogs: The First Tranche [\[1\]](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests),[\[2\]](https://www.aiddata.org/blog/development-that-doesnt-deforest-study-points-to-path-forward-for-local-infrastructure-projects)
 </div>
 
 [<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Forthcoming, American Journal of Political Science)* <br>
