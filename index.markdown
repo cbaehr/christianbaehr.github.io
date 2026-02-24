@@ -85,13 +85,16 @@ details summary {
 <h2 style="margin-top:20px; margin-bottom:-3px;"><b>Articles and Working Papers</b></h2>
 <i style="margin-left:2px;">* denotes dissertation papers</i>
 
-[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Forthcoming at the American Journal of Political Science)* <br>
+[<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://osf.io/preprints/socarxiv/pc5nz_v1)\*. *(Under review)* <br>
 
 [<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2), with Hanno Hilbig and António Valentim. *(Under review)* <br>
 
-[<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://osf.io/preprints/socarxiv/pc5nz_v1)\*. *(Under review)* <br>
+[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Forthcoming, American Journal of Political Science)* <br>
 
-[<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.dropbox.com/scl/fi/9lhdn9gqkh90gk6h8uiad/BenYishay-et-al-2025-Landmine-Clearance-and-Economic-Development.pdf?rlkey=2720udrbxzdmxsyf6zpiuew86&st=yxm41nz4&dl=0), with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. *(Revise & resubmit at the Journal of Development Economics)* <br>
+[<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.dropbox.com/scl/fi/9lhdn9gqkh90gk6h8uiad/BenYishay-et-al-2025-Landmine-Clearance-and-Economic-Development.pdf?rlkey=2720udrbxzdmxsyf6zpiuew86&st=yxm41nz4&dl=0), with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. *(Conditionally accepted, Journal of Development Economics)* <br>
+<div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
+ • Blog: [The First Tranche](https://www.aiddata.org/blog/afghanistans-national-program-to-clear-landmines-delivered-broad-based-impacts-study-finds)
+</div>
 
 [<span style="color:#1a73e8"><strong>Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</strong></span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X), with Ariel BenYishay and Bradley Parks. 2023. *Journal of Environmental Economics and Management*, 122 (1).  <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
@@ -100,7 +103,7 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</strong></span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800), with Ariel BenYishay and Bradley Parks. 2021. *Journal of the Association of Environmental and Resource Economists*, 8 (2).  <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
- • Blog Posts: [Infrastructure](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests), [development](https://www.aiddata.org/blog/development-that-doesnt-deforest-study-points-to-path-forward-for-local-infrastructure-projects)
+ • Blogs: The First Tranche [1](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests), [2](https://www.aiddata.org/blog/development-that-doesnt-deforest-study-points-to-path-forward-for-local-infrastructure-projects)
 </div>
 
 <h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
@@ -139,7 +142,7 @@ details summary {
 [<span style="color:#1a73e8">Building on a Foundation Stone: The Long-Term Impacts of a Local Infrastructure and Governance Program in Cambodia</span>](https://www.aiddata.org/publications/building-on-a-foundation-stone). 2019, with Ariel BenYishay, Bradley Parks, Rachel Trichler, Daniel Aboagye, and Punwath Prum. *(Stockholm: Swedish EBA, AidData, and Open Development Cambodia)*
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
  • Media: [Dagens Nyheter](https://www.dn.se/nyheter/vetenskap/effekten-av-bistandet-syns-fran-rymden) <br>
- • Blog Post: [Local governance](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives)
+ • Blogs: [The First Tranche](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives)
 </div>
 
 
