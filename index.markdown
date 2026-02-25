@@ -129,7 +129,7 @@ details summary {
 
 <strong>POL 504: Text As Data (Fall 2023)</strong> This graduate-level methods course trains students to be practitioners of textual methods, spanning from the foundations of text-as-data to cutting-edge machine learning methods for analyzing text.
 
-<h2 style="margin-top:20px;"><b>Software Packages</b></h2>
+<h2 style="margin-top:20px;"><b>Software</b></h2>
 
 *stylest2: An R package for estimating speaker distinctiveness*, with Arthur Spirling and Leslie Huang. <br>
  Available on [<span style="color:#1a73e8">CRAN</span>](https://cran.r-project.org/web/packages/stylest2).
