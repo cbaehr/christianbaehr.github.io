@@ -87,7 +87,7 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://osf.io/preprints/socarxiv/pc5nz_v1)\*. *(Under review)* <br>
 
-[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2), with Hanno Hilbig and António Valentim. *(Under review)* <br>
+[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2), with Hanno Hilbig and António Valentim. *(Revise & Resubmit, American Journal of Political Science)* <br>
 
 [<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Forthcoming, American Journal of Political Science)* <br>
 
