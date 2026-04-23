@@ -91,7 +91,7 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Forthcoming, American Journal of Political Science)* <br>
 
-[<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.sciencedirect.com/science/article/pii/S030438782600074X), with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. 2026. *(Journal of Development Economics)*, 182. <br>
+[<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.sciencedirect.com/science/article/pii/S030438782600074X), with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. 2026. *Journal of Development Economics*, 182. <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
  • Blog: [The First Tranche](https://www.aiddata.org/blog/afghanistans-national-program-to-clear-landmines-delivered-broad-based-impacts-study-finds)
 </div>
