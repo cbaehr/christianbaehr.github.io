@@ -5,11 +5,9 @@
 
 .site-brand {
   float: left;
-}
-
-.site-brand .site-title {
-  float: none;
-  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .site-subtitle {
