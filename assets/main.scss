@@ -3,6 +3,10 @@
 
 @import "minima";
 
+.site-header {
+  padding-top: 24px;
+}
+
 .site-brand {
   float: left;
   display: flex;
@@ -11,9 +15,10 @@
 }
 
 .site-subtitle {
-  font-size: 14px;
+  font-size: 17px;
+  font-weight: bold;
   color: #555;
-  margin-top: 2px;
+  margin-top: 4px;
 }
 
 p {
