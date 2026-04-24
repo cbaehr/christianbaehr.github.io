@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Christian Baehr
+tagline: "Ph.D Candidate, Princeton Politics"
 email: cbaehr [at] princeton [dot] edu
 description: | # this means to ignore newlines until "baseurl:"
   Ph.D. Candidate,
