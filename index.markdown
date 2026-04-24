@@ -67,9 +67,10 @@ details summary {
 }
 </style>
 
-<h2 style="margin-top:20px;"><b>Dissertation Project:</b> "Global Economic Change and Domestic Political Responses" <details style="display:inline;">
-    <summary style="display:inline; cursor:pointer; font-size:0.7em; color:#1a73e8">[details]</summary>
-    <div style="font-size:0.7em; margin-top:25px;">
+<h2 style="margin-top:20px;"><b>Dissertation Project:</b> "Global Economic Change and Domestic Political Responses"</h2>
+<details style="margin-top:-10px;">
+    <summary style="cursor:pointer; font-size:0.85em; color:#1a73e8;">[details]</summary>
+    <div style="font-size:0.85em; margin-top:10px;">
     My dissertation investigates how diverse political actors respond to economic disruptions rooted in climate change and trade. In one chapter, currently under review, I investigate how governments respond to permanent, negative shocks to oil revenues. Building on the resource curse literature, I theorize that enduring oil price declines impose fiscal constraints on distributive policies of governments, forcing them to strategically invest in improving state effectiveness. The project links the resource curse literature to the clean energy transition and leverages the 2010 shale oil revolution as a natural experiment to show that rather than retrenching or liberalizing in the face of long-term oil price declines, governments instead pursue limited institutional reforms. <br>
     <br>
     A second chapter, co-authored with Fiona Bare and Vincent Heddesheimer, examines how firms respond to business risks and opportunities from climate change. This paper has been conditionally accepted for publication at the American Journal of Political Science. We develop a theory of firm lobbying behavior grounded in the distinct policy solutions relevant to various types of climate exposure. Using firm-level data from earnings calls and lobbying disclosures, we show that firms are more likely to engage in lobbying when they perceive climate-related business opportunities, not just risks. <br>
@@ -77,7 +78,6 @@ details summary {
     The final chapter analyzes how energy trade dependence shapes foreign policy alignment. Exploiting the sudden emergence of alternative suppliers following the shale oil revolution, I show that higher levels of historical dependence on energy imports are associated with greater political alignment, and that this alignment declines as the set of potential suppliers expands. Using data on countries’ speeches and voting behavior in the United Nations General Assembly, I demonstrate that this dynamic shapes both how states communicate about, and how they vote on, shared international issues.
     </div>
 </details>
-</h2>
 
 
 
