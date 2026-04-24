@@ -93,17 +93,17 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.sciencedirect.com/science/article/pii/S030438782600074X), with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. 2026. *Journal of Development Economics*, 182. <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
- • Blog: \[[**The First Tranche**](https://www.aiddata.org/blog/afghanistans-national-program-to-clear-landmines-delivered-broad-based-impacts-study-finds)\]
+ • \[Blog: [**The First Tranche**](https://www.aiddata.org/blog/afghanistans-national-program-to-clear-landmines-delivered-broad-based-impacts-study-finds)\]
 </div>
 
 [<span style="color:#1a73e8"><strong>Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</strong></span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X), with Ariel BenYishay and Bradley Parks. 2023. *Journal of Environmental Economics and Management*, 122 (1).  <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
- • [Policy Brief](https://www.aiddata.org/publications/highway-to-the-forest)
+ • \[[**Policy Brief**](https://www.aiddata.org/publications/highway-to-the-forest)\]
 </div>
 
 [<span style="color:#1a73e8"><strong>Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</strong></span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800), with Ariel BenYishay and Bradley Parks. 2021. *Journal of the Association of Environmental and Resource Economists*, 8 (2).  <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
- • Blogs: The First Tranche [\[1\]](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests),[\[2\]](https://www.aiddata.org/blog/development-that-doesnt-deforest-study-points-to-path-forward-for-local-infrastructure-projects)
+ • \[Blog: **The First Tranche** [**1**](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests),[**2**](https://www.aiddata.org/blog/development-that-doesnt-deforest-study-points-to-path-forward-for-local-infrastructure-projects)\]
 </div>
 
 
@@ -142,8 +142,8 @@ details summary {
 
 [<span style="color:#1a73e8">Building on a Foundation Stone: The Long-Term Impacts of a Local Infrastructure and Governance Program in Cambodia</span>](https://www.aiddata.org/publications/building-on-a-foundation-stone). 2019, with Ariel BenYishay, Bradley Parks, Rachel Trichler, Daniel Aboagye, and Punwath Prum. *(Stockholm: Swedish EBA, AidData, and Open Development Cambodia)*
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
- • Media: [Dagens Nyheter](https://www.dn.se/nyheter/vetenskap/effekten-av-bistandet-syns-fran-rymden) <br>
- • Blog: [The First Tranche](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives)
+ • \[Media: [**Dagens Nyheter**](https://www.dn.se/nyheter/vetenskap/effekten-av-bistandet-syns-fran-rymden)\] <br>
+ • \[Blog: [**The First Tranche**](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives)\]
 </div>
 
 
