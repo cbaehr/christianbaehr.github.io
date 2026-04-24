@@ -85,23 +85,23 @@ details summary {
 <h2 style="margin-top:20px; margin-bottom:-3px;"><b>Articles and Working Papers</b></h2>
 <i style="margin-left:2px;">* denotes dissertation papers</i>
 
-[<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://osf.io/preprints/socarxiv/pc5nz_v1)\*. *(Under review)* <br>
+[<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://osf.io/preprints/socarxiv/pc5nz_v1)\*. *Under review* <br>
 
-[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2), with Hanno Hilbig and António Valentim. *(Revise & Resubmit, American Journal of Political Science)* <br>
+[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2) (with Hanno Hilbig and António Valentim). *Revise & Resubmit, American Journal of Political Science* <br>
 
-[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\*, with Fiona Bare and Vincent Heddesheimer. *(Forthcoming, American Journal of Political Science)* <br>
+[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://osf.io/preprints/socarxiv/yq27d)\* (with Fiona Bare and Vincent Heddesheimer). *Forthcoming, American Journal of Political Science* <br>
 
-[<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.sciencedirect.com/science/article/pii/S030438782600074X), with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker. 2026. *Journal of Development Economics*, 182. <br>
+[<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.sciencedirect.com/science/article/pii/S030438782600074X) (with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker). *Journal of Development Economics*. 2026. <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
  • \[Blog: [**The First Tranche**](https://www.aiddata.org/blog/afghanistans-national-program-to-clear-landmines-delivered-broad-based-impacts-study-finds)\]
 </div>
 
-[<span style="color:#1a73e8"><strong>Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</strong></span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X), with Ariel BenYishay and Bradley Parks. 2023. *Journal of Environmental Economics and Management*, 122 (1).  <br>
+[<span style="color:#1a73e8"><strong>Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</strong></span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) (with Ariel BenYishay and Bradley Parks). *Journal of Environmental Economics and Management*. 2023.  <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
  • \[[**Policy Brief**](https://www.aiddata.org/publications/highway-to-the-forest)\]
 </div>
 
-[<span style="color:#1a73e8"><strong>Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</strong></span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800), with Ariel BenYishay and Bradley Parks. 2021. *Journal of the Association of Environmental and Resource Economists*, 8 (2).  <br>
+[<span style="color:#1a73e8"><strong>Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</strong></span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) (with Ariel BenYishay and Bradley Parks). *Journal of the Association of Environmental and Resource Economists*. 2021.  <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
  • \[Blog: [**The First Tranche**]() [**1**](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests),[**2**](https://www.aiddata.org/blog/development-that-doesnt-deforest-study-points-to-path-forward-for-local-infrastructure-projects)\]
 </div>
@@ -132,15 +132,15 @@ details summary {
 <h2 style="margin-top:20px;"><b>Software</b></h2>
 
 *stylest2: An R package for estimating speaker distinctiveness*, with Arthur Spirling and Leslie Huang. <br>
- Available on [<span style="color:#1a73e8">CRAN</span>](https://cran.r-project.org/web/packages/stylest2).
+ Available on [<span style="color:#1a73e8">CRAN</span>](https://cran.r-project.org/web/packages/stylest2). 2024.
 
 <h2 style="margin-top:20px;"><b>Policy Research</b></h2>
 
-[<span style="color:#1a73e8">Prospects for Venezuelan Debt Restructuring: A Trump Bump</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf). 2025. *(PSFL Policy Brief 25-1)*
+[<span style="color:#1a73e8">Prospects for Venezuelan Debt Restructuring: A Trump Bump</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf). *(PSFL Policy Brief 25-1)*. 2025.
 
-[<span style="color:#1a73e8">How Do Governments Respond to Persistently High Commodity Prices</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf). 2024. *(PSFL Policy Brief 24-2)*
+[<span style="color:#1a73e8">How Do Governments Respond to Persistently High Commodity Prices</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf). *(PSFL Policy Brief 24-2)*. . 2024
 
-[<span style="color:#1a73e8">Building on a Foundation Stone: The Long-Term Impacts of a Local Infrastructure and Governance Program in Cambodia</span>](https://www.aiddata.org/publications/building-on-a-foundation-stone). 2019, with Ariel BenYishay, Bradley Parks, Rachel Trichler, Daniel Aboagye, and Punwath Prum. *(Stockholm: Swedish EBA, AidData, and Open Development Cambodia)*
+[<span style="color:#1a73e8">Building on a Foundation Stone: The Long-Term Impacts of a Local Infrastructure and Governance Program in Cambodia</span>](https://www.aiddata.org/publications/building-on-a-foundation-stone) (with Ariel BenYishay, Bradley Parks, Rachel Trichler, Daniel Aboagye, and Punwath Prum). *(Stockholm: Swedish EBA, AidData, and Open Development Cambodia)*. 2019.
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
  • \[Media: [**Dagens Nyheter**](https://www.dn.se/nyheter/vetenskap/effekten-av-bistandet-syns-fran-rymden), Blog: [**The First Tranche**](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives)\]
 </div>
