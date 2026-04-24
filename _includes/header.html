@@ -14,8 +14,14 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-    <div class="site-subtitle">Department of Politics &nbsp;&middot;&nbsp; Princeton University &nbsp;&middot;&nbsp; <a href="mailto:{{ site.email }}">{{ site.email }}</a></div>
+    <div class="site-brand">
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <div class="site-subtitle">
+        <div>Department of Politics</div>
+        <div>Princeton University</div>
+        <div>{{ site.email }}</div>
+      </div>
+    </div>
 
     {%- if page_paths -%}
       <nav class="site-nav">
