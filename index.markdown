@@ -136,11 +136,11 @@ details summary {
 
 <h2 style="margin-top:20px;"><b>Policy Research</b></h2>
 
-[<span style="color:#1a73e8">Prospects for Venezuelan Debt Restructuring: A Trump Bump</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf). *(PSFL Policy Brief 25-1)*. 2025.
+[<span style="color:#1a73e8"><strong>Prospects for Venezuelan Debt Restructuring: A Trump Bump</strong></span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/Baehr%20Venezuela%20Brief%20Final.pdf). *(PSFL Policy Brief 25-1)*. 2025.
 
-[<span style="color:#1a73e8">How Do Governments Respond to Persistently High Commodity Prices</span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf). *(PSFL Policy Brief 24-2)*. 2024.
+[<span style="color:#1a73e8"><strong>How Do Governments Respond to Persistently High Commodity Prices</strong></span>](https://psfl.princeton.edu/sites/g/files/toruqf5686/files/documents/How%20Do%20Governments%20Respond%20to%20Persistently%20High%20Commodity%20Prices.pdf). *(PSFL Policy Brief 24-2)*. 2024.
 
-[<span style="color:#1a73e8">Building on a Foundation Stone: The Long-Term Impacts of a Local Infrastructure and Governance Program in Cambodia</span>](https://www.aiddata.org/publications/building-on-a-foundation-stone) (with Ariel BenYishay, Bradley Parks, Rachel Trichler, Daniel Aboagye, and Punwath Prum). *(Stockholm: Swedish EBA, AidData, and Open Development Cambodia)*. 2019.
+[<span style="color:#1a73e8"><strong>Building on a Foundation Stone: The Long-Term Impacts of a Local Infrastructure and Governance Program in Cambodia</strong></span>](https://www.aiddata.org/publications/building-on-a-foundation-stone) (with Ariel BenYishay, Bradley Parks, Rachel Trichler, Daniel Aboagye, and Punwath Prum). *(Stockholm: Swedish EBA, AidData, and Open Development Cambodia)*. 2019.
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
  • \[Media: [**Dagens Nyheter**](https://www.dn.se/nyheter/vetenskap/effekten-av-bistandet-syns-fran-rymden), Blog: [**The First Tranche**](https://www.aiddata.org/blog/how-cambodias-program-to-strengthen-local-governance-built-roads-and-saved-lives)\]
 </div>
