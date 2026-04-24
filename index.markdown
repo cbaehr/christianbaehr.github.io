@@ -83,7 +83,7 @@ details summary {
 
 
 <h2 style="margin-top:20px; margin-bottom:-3px;"><b>Articles and Working Papers</b></h2>
-<i style="margin-left:2px;">* denotes dissertation papers</i>
+<i style="margin-left:2px;">* dissertation papers</i>
 
 [<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://osf.io/preprints/socarxiv/pc5nz_v1)\*. *Under Review.* <br>
 
