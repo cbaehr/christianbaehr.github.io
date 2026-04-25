@@ -68,7 +68,7 @@ details summary {
 </style>
 
 <details style="margin-top:20px;">
-    <summary style="cursor:pointer; list-style:none; margin-bottom:4px;"><span style="font-size:1.5em; font-weight:bold;">Dissertation Project:</span>&ensp;<span style="font-weight:bold;">"Global Economic Change and Domestic Political Responses"</span> <span style="color:#1a73e8;"><strong><em>[Details]</em></strong></span></summary>
+    <summary style="cursor:pointer; list-style:none; margin-bottom:4px;"><span style="font-size:1.5em; font-weight:bold;">Dissertation Project:</span>&ensp;<span style="font-size:1.1em; font-weight:bold;">"Global Economic Change and Domestic Political Responses"</span> <span style="font-size:1.1em; color:#1a73e8;"><strong><em>[Details]</em></strong></span></summary>
     <div style="font-size:1.0em; margin-top:10px;">
     My dissertation investigates how diverse political actors respond to economic disruptions rooted in climate change and trade. In one chapter, currently under review, I investigate how governments respond to permanent, negative shocks to oil revenues. Building on the resource curse literature, I theorize that enduring oil price declines impose fiscal constraints on distributive policies of governments, forcing them to strategically invest in improving state effectiveness. The project links the resource curse literature to the clean energy transition and leverages the 2010 shale oil revolution as a natural experiment to show that rather than retrenching or liberalizing in the face of long-term oil price declines, governments instead pursue limited institutional reforms. <br>
     <br>
