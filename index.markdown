@@ -102,7 +102,7 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</strong></span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) (with Ariel BenYishay and Bradley Parks). *Journal of the Association of Environmental and Resource Economists*. 2021.  <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
- • \[Blog: [**The First Tranche**]() [**1**](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests),[**2**](https://www.aiddata.org/blog/development-that-doesnt-deforest-study-points-to-path-forward-for-local-infrastructure-projects)\]
+ • \[Blog: [**The First Tranche 1**](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests),[**2**](https://www.aiddata.org/blog/development-that-doesnt-deforest-study-points-to-path-forward-for-local-infrastructure-projects)\]
 </div>
 
 
