@@ -114,7 +114,7 @@ details summary {
 
 <strong>Resource Curse in Reverse? Local Political Effects of Transitions from Fossil Fuels</strong>, with Alex Gazmararian, Tyler Simko, and Luke Sanford. <br>
 
-<strong>Are Corporations People? Explaining Public Support for Special Interests</strong>, with Fiona Bare, Alex Gazmararian, and Vincent Heddesheimer. <br>
+<strong>Explaining Public Support for Special Interests</strong>, with Fiona Bare, Alex Gazmararian, and Vincent Heddesheimer. <br>
 
 
 <h2 style="margin-top:20px; margin-bottom:-3px;"><b>Teaching</b></h2>
