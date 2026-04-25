@@ -15,7 +15,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <div class="site-brand">
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <span class="site-title">{{ site.title | escape }}</span>
       <div class="site-subtitle">
         <div><a href="https://politics.princeton.edu" target="_blank" style="color:#1a73e8; text-decoration:none;">Department of Politics</a></div>
         <div>Princeton University</div>
