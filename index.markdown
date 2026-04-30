@@ -86,21 +86,21 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Energy Transitions and Political Transformation: Evidence from the Shale Oil Revolution</strong></span>](https://osf.io/preprints/socarxiv/pc5nz_v1)\*. *Under Review.* <br>
 
-[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2) (with Hanno Hilbig and António Valentim). *Revise & Resubmit, American Journal of Political Science.* <br>
+[<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2) (with Hanno Hilbig and António Valentim). Revise & Resubmit, ***American Journal of Political Science.*** <br>
 
-[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70062)\* (with Fiona Bare and Vincent Heddesheimer). *American Journal of Political Science, Early View.* 2026. <br>
+[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70062)\* (with Fiona Bare and Vincent Heddesheimer). Early View, ***American Journal of Political Science***. 2026. <br>
 
-[<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.sciencedirect.com/science/article/pii/S030438782600074X) (with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker). *Journal of Development Economics*. 2026. <br>
+[<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.sciencedirect.com/science/article/pii/S030438782600074X) (with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker). ***Journal of Development Economics.*** 2026. <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
  • \[Blog: [**The First Tranche**](https://www.aiddata.org/blog/afghanistans-national-program-to-clear-landmines-delivered-broad-based-impacts-study-finds)\]
 </div>
 
-[<span style="color:#1a73e8"><strong>Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</strong></span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) (with Ariel BenYishay and Bradley Parks). *Journal of Environmental Economics and Management*. 2023.  <br>
+[<span style="color:#1a73e8"><strong>Highway to the Forest? Land Governance and the Siting and Environmental Impacts of Chinese Government-Funded Road Building in Cambodia</strong></span>](https://www.sciencedirect.com/science/article/pii/S009506962300116X) (with Ariel BenYishay and Bradley Parks). ***Journal of Environmental Economics and Management.*** 2023.  <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
  • \[Policy Brief: [**AidData**](https://www.aiddata.org/publications/highway-to-the-forest)\]
 </div>
 
-[<span style="color:#1a73e8"><strong>Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</strong></span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) (with Ariel BenYishay and Bradley Parks). *Journal of the Association of Environmental and Resource Economists*. 2021.  <br>
+[<span style="color:#1a73e8"><strong>Linking Local Infrastructure Development and Deforestation: Evidence from Satellites and Administrative Data</strong></span>](https://www.journals.uchicago.edu/doi/full/10.1086/712800) (with Ariel BenYishay and Bradley Parks). ***Journal of the Association of Environmental and Resource Economists.*** 2021.  <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
  • \[Blog: [**The First Tranche 1**](https://www.aiddata.org/blog/is-it-possible-for-infrastructure-not-to-hurt-forests),[**2**](https://www.aiddata.org/blog/development-that-doesnt-deforest-study-points-to-path-forward-for-local-infrastructure-projects)\]
 </div>
