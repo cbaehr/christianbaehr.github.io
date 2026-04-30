@@ -88,7 +88,7 @@ details summary {
 
 [<span style="color:#1a73e8"><strong>Voter Responses to Climate Adaptation in High-Risk Communities</strong></span>](https://osf.io/preprints/socarxiv/2g4x7_v2) (with Hanno Hilbig and António Valentim). *Revise & Resubmit, American Journal of Political Science.* <br>
 
-[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70062)\* (with Fiona Bare and Vincent Heddesheimer). *Early View, American Journal of Political Science.* 2026. <br>
+[<span style="color:#1a73e8"><strong>Climate Exposure Drives Firm Political Behavior: Evidence From Earnings Calls and Lobbying Data</strong></span>](https://onlinelibrary.wiley.com/doi/10.1111/ajps.70062)\* (with Fiona Bare and Vincent Heddesheimer). *American Journal of Political Science, Early View.* 2026. <br>
 
 [<span style="color:#1a73e8"><strong>Landmine Clearance and Economic Development: Evidence from Multispectral Satellite Imagery, Nighttime Lights, and Conflict Events in Afghanistan</strong></span>](https://www.sciencedirect.com/science/article/pii/S030438782600074X) (with Ariel BenYishay, Rachel Sayers, Kunwar Singh, and Madeleine Walker). *Journal of Development Economics*. 2026. <br>
 <div markdown="1" style="margin-left:20px; margin-top:-12px; margin-bottom:18px;">
