@@ -106,7 +106,7 @@ details summary {
 </div>
 
 
-<h2 style="margin-top:20px;"><b>Selected Works in Progress</b></h2>
+<h2 style="margin-top:20px;"><b>Works in Progress</b></h2>
 
 <strong>Crude Realignment: Energy Dependence and Foreign Policy Divergence after the Shale Revolution</strong>\*. <br>
 
