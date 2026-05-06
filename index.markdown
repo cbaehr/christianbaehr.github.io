@@ -118,7 +118,7 @@ details summary {
 
 <h2 style="margin-top:20px;"><b>Software</b></h2>
 
-*stylest2: An R package for estimating speaker distinctiveness*, with Arthur Spirling and Leslie Huang. <br>
+***stylest2: An R package for estimating speaker distinctiveness***, with Arthur Spirling and Leslie Huang. <br>
  Available on [<span style="color:#1a73e8">CRAN</span>](https://cran.r-project.org/web/packages/stylest2). 2024.
 
 <h2 style="margin-top:20px;"><b>Policy Research</b></h2>
